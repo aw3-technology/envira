@@ -1,215 +1,285 @@
 # Bibliography
 
-**Format:** Sources organized by book part, then alphabetically by author. Each entry follows Chicago Manual of Style 17th edition author-date format. This scaffold includes key references already identified during the planning process; additional sources will be added during drafting.
+Sources are organized by book part, then alphabetically by author. Entries follow the Chicago Manual of Style, 17th edition. Chapter-specific sources are cited in footnotes within each chapter; this bibliography collects the foundational references for readers seeking to go deeper.
 
 ---
 
-## Part I: The Crisis — Sources
+## Part I: The Crisis
 
-### Key References
+Armstrong McKay, D.I., A. Staal, J.F. Abrams, R. Winkelmann, B. Sakschewski, S. Loriani, I. Fetzer, S.E. Cornell, J. Rockstrom, and T.M. Lenton. "Exceeding 1.5C Global Warming Could Trigger Multiple Climate Tipping Points." *Science* 377, no. 6611 (2022): eabn7950.
 
-- Ceballos, G., Ehrlich, P.R., & Dirzo, R. (2017). "Biological annihilation via the ongoing sixth mass extinction signaled by vertebrate population losses and declines." *Proceedings of the National Academy of Sciences*, 114(30), E6089–E6096.
+Ceballos, G., P.R. Ehrlich, and R. Dirzo. "Biological Annihilation via the Ongoing Sixth Mass Extinction Signaled by Vertebrate Population Losses and Declines." *Proceedings of the National Academy of Sciences* 114, no. 30 (2017): E6089--E6096.
 
-- Friedlingstein, P. et al. (2023). "Global Carbon Budget 2023." *Earth System Science Data*, 15(12), 5301–5369.
+Diffenbaugh, N.S., D. Singh, J.S. Mankin, D.E. Horton, D.L. Swain, D. Touma, A. Charland, Y. Liu, M. Haugen, M. Tsiang, and B. Rajaratnam. "Quantifying the Influence of Global Warming on Unprecedented Extreme Climate Events." *Proceedings of the National Academy of Sciences* 114, no. 19 (2017): 4881--4886.
 
-- IPCC. (2021). *Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change*. Cambridge University Press.
+Friedlingstein, P., et al. "Global Carbon Budget 2023." *Earth System Science Data* 15, no. 12 (2023): 5301--5369.
 
-- IPCC. (2022). *Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change*. Cambridge University Press.
+Hoegh-Guldberg, O., et al. "Impacts of 1.5C Global Warming on Natural and Human Systems." In *Global Warming of 1.5C*, IPCC Special Report, Chapter 3. Cambridge: Cambridge University Press, 2018.
 
-- Lenton, T.M. et al. (2019). "Climate tipping points — too risky to bet against." *Nature*, 575, 592–595.
+IPCC. *Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change*. Cambridge: Cambridge University Press, 2021.
 
-- Ripple, W.J. et al. (2020). "World Scientists' Warning of a Climate Emergency." *BioScience*, 70(1), 8–12.
+IPCC. *Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change*. Cambridge: Cambridge University Press, 2022.
 
-- Rockstrom, J. et al. (2009). "A safe operating space for humanity." *Nature*, 461, 472–475.
+Lenton, T.M., J. Rockstrom, O. Gaffney, S. Rahmstorf, K. Richardson, W. Steffen, and H.J. Schellnhuber. "Climate Tipping Points -- Too Risky to Bet Against." *Nature* 575 (2019): 592--595.
 
-- Steffen, W. et al. (2015). "Planetary boundaries: Guiding human development on a changing planet." *Science*, 347(6223), 1259855.
+NOAA. *Annual Greenhouse Gas Index*. Washington, DC: National Oceanic and Atmospheric Administration, 2023.
 
-- UNEP. (2023). *Emissions Gap Report 2023*. United Nations Environment Programme.
+Portner, H.-O., et al. "Overcoming the Coupled Climate and Biodiversity Crises and Their Societal Impacts." *Science* 380, no. 6642 (2022): eabl4881.
 
-- WWF. (2022). *Living Planet Report 2022*. World Wildlife Fund.
+Richardson, K., et al. "Earth beyond Six of Nine Planetary Boundaries." *Science Advances* 9, no. 37 (2023): eadh2458.
 
-[Additional Part I sources to be added during drafting]
+Ripple, W.J., et al. "World Scientists' Warning of a Climate Emergency." *BioScience* 70, no. 1 (2020): 8--12.
 
----
+Rockstrom, J., et al. "A Safe Operating Space for Humanity." *Nature* 461 (2009): 472--475.
 
-## Part II: The Nervous System — Sources
+Steffen, W., et al. "Planetary Boundaries: Guiding Human Development on a Changing Planet." *Science* 347, no. 6223 (2015): 1259855.
 
-### Key References
+Swiss Re Institute. *The Economics of Climate Change: No Action Not an Option*. Zurich: Swiss Re, 2021.
 
-- Burke, M. & Lobell, D.B. (2017). "Satellite-based assessment of yield variation and its determinants in smallholder African systems." *Proceedings of the National Academy of Sciences*, 114(9), 2189–2194.
+UNEP. *Emissions Gap Report 2023*. Nairobi: United Nations Environment Programme, 2023.
 
-- Hansen, M.C. et al. (2013). "High-Resolution Global Maps of 21st-Century Forest Cover Change." *Science*, 342(6160), 850–853.
+Wang-Erlandsson, L., et al. "A Planetary Boundary for Green Water." *Nature Reviews Earth and Environment* 3 (2022): 380--392.
 
-- IEA. (2023). *World Energy Outlook 2023*. International Energy Agency.
-
-- Lauvaux, T. et al. (2022). "Global assessment of oil and gas methane ultra-emitters." *Science*, 375(6580), 557–561.
-
-- Planet Labs. Annual impact reports and technical documentation.
-
-- Rolnick, D. et al. (2022). "Tackling Climate Change with Machine Learning." *ACM Computing Surveys*, 55(2), Article 42.
-
-- Schneider, A., Friedl, M.A., & Potere, D. (2009). "A new map of global urban extent from MODIS satellite data." *Environmental Research Letters*, 4(4), 044003.
-
-- UNEP. (2023). *Frontiers 2022: Noise, Blazes and Mismatches*. United Nations Environment Programme.
-
-[Additional Part II sources to be added during drafting]
+WWF. *Living Planet Report 2024*. Gland: World Wildlife Fund, 2024.
 
 ---
 
-## Part III: The Arsenal — Sources
+## Part II: The Nervous System
 
-### Key References
+Burke, M., and D.B. Lobell. "Satellite-Based Assessment of Yield Variation and Its Determinants in Smallholder African Systems." *Proceedings of the National Academy of Sciences* 114, no. 9 (2017): 2189--2194.
 
-- Climeworks. Operational data and published cost estimates for Orca and Mammoth facilities.
+Climate TRACE Coalition. "Independent Greenhouse Gas Emissions Tracking." Technical documentation and methodology, 2022.
 
-- Hepburn, C. et al. (2019). "The technological and economic prospects for CO2 utilization and removal." *Nature*, 575, 87–97.
+Finer, M., et al. "Combating Deforestation: From Satellite to Intervention." *Science* 360, no. 6395 (2018): 1303--1305.
 
-- IEA. (2023). *CCUS in Clean Energy Transitions*. International Energy Agency.
+Hansen, M.C., et al. "High-Resolution Global Maps of 21st-Century Forest Cover Change." *Science* 342, no. 6160 (2013): 850--853.
 
-- IEA. (2023). *Global Hydrogen Review 2023*. International Energy Agency.
+IEA. *World Energy Outlook 2023*. Paris: International Energy Agency, 2023.
 
-- IRENA. (2022). *Renewable Power Generation Costs in 2022*. International Renewable Energy Agency.
+Lam, A., et al. "Using Google Earth to Observe Artisanal Gold Mining in the Peruvian Amazon." *Journal of Environmental Management* 92, no. 3 (2011): 558--565.
 
-- LDES Council. (2023). *Net-Zero Power: Long Duration Energy Storage for a Renewable Grid*.
+Lauvaux, T., et al. "Global Assessment of Oil and Gas Methane Ultra-Emitters." *Science* 375, no. 6580 (2022): 557--561.
 
-- National Academies of Sciences, Engineering, and Medicine. (2019). *Negative Emissions Technologies and Reliable Sequestration: A Research Agenda*. The National Academies Press.
+Planet Labs. Annual impact reports and technical documentation. San Francisco: Planet Labs PBC.
 
-- Rissman, J. et al. (2020). "Technologies and policies to decarbonize global industry: Review and assessment of mitigation drivers through 2070." *Applied Energy*, 266, 114848.
+Planet Labs. *Planet Monitoring: Technical Specifications and Environmental Applications*. San Francisco: Planet Labs PBC, 2023.
 
-- Smith, P. et al. (2020). "How to measure, report and verify soil carbon change to realize the potential of soil carbon sequestration for atmospheric greenhouse gas removal." *Global Change Biology*, 26(1), 219–241.
+Rolf, E., et al. "A Generalizable and Accessible Approach to Machine Learning with Global Satellite Imagery." *Nature Communications* 12 (2021): 4392.
 
-[Additional Part III sources to be added during drafting]
+Rolnick, D., et al. "Tackling Climate Change with Machine Learning." *ACM Computing Surveys* 55, no. 2 (2022): Article 42.
 
----
+Schneider, A., M.A. Friedl, and D. Potere. "A New Map of Global Urban Extent from MODIS Satellite Data." *Environmental Research Letters* 4, no. 4 (2009): 044003.
 
-## Part IV: The Human Equation — Sources
+Tuia, D., et al. "Perspectives in Machine Learning for Wildlife Conservation." *Nature Communications* 13 (2022): 792.
 
-### Key References
+UNEP. *Frontiers 2022: Noise, Blazes and Mismatches*. Nairobi: United Nations Environment Programme, 2023.
 
-- Bullard, R.D. (2000). *Dumping in Dixie: Race, Class, and Environmental Quality* (3rd ed.). Westview Press.
+Weiss, D.J., et al. "Global Maps of Travel Time to Healthcare Facilities." *Nature Medicine* 26 (2020): 1835--1838.
 
-- Clayton, S. et al. (2017). *Mental Health and Our Changing Climate: Impacts, Implications, and Guidance*. American Psychological Association and ecoAmerica.
-
-- Hickel, J. (2020). *Less Is More: How Degrowth Will Save the World*. William Heinemann.
-
-- Leiserowitz, A. et al. (2023). *Climate Change in the American Mind*. Yale Program on Climate Change Communication.
-
-- Marshall, G. (2014). *Don't Even Think About It: Why Our Brains Are Wired to Ignore Climate Change*. Bloomsbury.
-
-- Mildenberger, M. (2020). *Carbon Captured: How Business and Labor Control Climate Politics*. MIT Press.
-
-- Norgaard, K.M. (2011). *Living in Denial: Climate Change, Emotions, and Everyday Life*. MIT Press.
-
-- Schlosberg, D. & Collins, L.B. (2014). "From environmental to climate justice: climate change and the discourse of environmental justice." *WIREs Climate Change*, 5(3), 359–374.
-
-- Stokes, L.C. (2020). *Short Circuiting Policy: Interest Groups and the Battle Over Clean Energy and Climate Policy in the American States*. Oxford University Press.
-
-[Additional Part IV sources to be added during drafting]
+World Meteorological Organization. *State of the Global Climate 2022*. Geneva: WMO, 2023.
 
 ---
 
-## Part V: The Obstacles — Sources
+## Part III: The Arsenal
 
-### Key References
+Bui, M., et al. "Carbon Capture and Storage (CCS): The Way Forward." *Energy and Environmental Science* 11, no. 5 (2018): 1062--1176.
 
-- InfluenceMap. Annual reports on corporate climate lobbying and policy engagement.
+Climeworks. Operational data and published cost estimates for Orca and Mammoth facilities. Zurich: Climeworks AG.
 
-- Lamb, W.F. et al. (2020). "Discourses of climate delay." *Global Sustainability*, 3, e17.
+Fasihi, M., O. Efimova, and C. Breyer. "Techno-Economic Assessment of CO2 Direct Air Capture Plants." *Journal of Cleaner Production* 224 (2019): 957--980.
 
-- Mann, M.E. (2021). *The New Climate War: The Fight to Take Back Our Planet*. PublicAffairs.
+Fuss, S., et al. "Negative Emissions -- Part 2: Costs, Potentials and Side Effects." *Environmental Research Letters* 13, no. 6 (2018): 063002.
 
-- McKie, R.E. (2019). "Climate Change Counter Movement Neutralization Techniques: A Typology to Examine the Climate Change Counter Movement." *Sociological Inquiry*, 89(2), 288–316.
+Haegel, N.M., et al. "Terawatt-Scale Photovoltaics: Transform Global Energy." *Science* 364, no. 6443 (2019): 836--838.
 
-- Oreskes, N. & Conway, E.M. (2010). *Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming*. Bloomsbury Press.
+Hepburn, C., et al. "The Technological and Economic Prospects for CO2 Utilization and Removal." *Nature* 575 (2019): 87--97.
 
-- Supran, G. & Oreskes, N. (2017). "Assessing ExxonMobil's climate change communications (1977–2014)." *Environmental Research Letters*, 12(8), 084019.
+IEA. *CCUS in Clean Energy Transitions*. Paris: International Energy Agency, 2023.
 
-- Supran, G., Rahmstorf, S., & Oreskes, N. (2023). "Assessing ExxonMobil's global warming projections." *Science*, 379(6628), eabk0063.
+IEA. *Global Hydrogen Review 2023*. Paris: International Energy Agency, 2023.
 
-- UNEP, IISD, et al. (2023). *Production Gap Report 2023*. United Nations Environment Programme.
+IEA. *Renewables 2023: Analysis and Forecast to 2028*. Paris: International Energy Agency, 2023.
 
-[Additional Part V sources to be added during drafting]
+IRENA. *Renewable Power Generation Costs in 2022*. Abu Dhabi: International Renewable Energy Agency, 2022.
+
+Keith, D.W., G. Holmes, D. St. Angelo, and K. Heidel. "A Process for Capturing CO2 from the Atmosphere." *Joule* 2, no. 8 (2018): 1573--1594.
+
+LDES Council. *Net-Zero Power: Long Duration Energy Storage for a Renewable Grid*. 2023.
+
+Minx, J.C., et al. "Negative Emissions -- Part 1: Research Landscape and Synthesis." *Environmental Research Letters* 13, no. 6 (2018): 063001.
+
+National Academies of Sciences, Engineering, and Medicine. *Negative Emissions Technologies and Reliable Sequestration: A Research Agenda*. Washington, DC: The National Academies Press, 2019.
+
+Rissman, J., et al. "Technologies and Policies to Decarbonize Global Industry: Review and Assessment of Mitigation Drivers through 2070." *Applied Energy* 266 (2020): 114848.
+
+Smith, P., et al. "How to Measure, Report and Verify Soil Carbon Change to Realize the Potential of Soil Carbon Sequestration for Atmospheric Greenhouse Gas Removal." *Global Change Biology* 26, no. 1 (2020): 219--241.
+
+Way, R., et al. "Empirically Grounded Technology Forecasts and the Energy Transition." *Joule* 6, no. 9 (2022): 2057--2082.
 
 ---
 
-## Part VI: The Path Forward — Sources
+## Part IV: The Human Equation
 
-### Key References
+Banerjee, A., and G. Schuitema. "How Just Is the Just Transition? Insights from a Systematic Review." *Energy Research and Social Science* 101 (2023): 103131.
 
-- Bollinger, B. & Gillingham, K. (2012). "Peer Effects in the Diffusion of Solar Photovoltaic Panels." *Marketing Science*, 31(6), 900–912.
+Brulle, R.J. "Institutionalizing Delay: Foundation Funding and the Creation of U.S. Climate Change Counter-Movement Organizations." *Climatic Change* 122 (2014): 681--694.
 
-- Hawken, P. (ed.). (2017). *Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming*. Penguin Books.
+Bullard, R.D. *Dumping in Dixie: Race, Class, and Environmental Quality*. 3rd ed. Boulder, CO: Westview Press, 2000.
 
-- IEA. (2023). *Net Zero Roadmap: A Global Pathway to Keep the 1.5°C Goal in Reach* (2023 Update). International Energy Agency.
+Clayton, S., et al. *Mental Health and Our Changing Climate: Impacts, Implications, and Guidance*. Washington, DC: American Psychological Association and ecoAmerica, 2017.
 
-- IEA. (2023). *World Energy Investment 2023*. International Energy Agency.
+Goldberg, M.H., et al. "Shifting Republican Views on Climate Change through Targeted Advertising." *Nature Climate Change* 11 (2021): 573--577.
 
-- IPCC. (2018). *Global Warming of 1.5°C: An IPCC Special Report on the Impacts of Global Warming of 1.5°C Above Pre-Industrial Levels*. Cambridge University Press.
+Hess, D.J., and R.G. McKane. "Making Clean Energy More Just." *Science* 373, no. 6553 (2021): 379--381.
 
-- IPCC. (2022). *Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report*. Cambridge University Press.
+Hickel, J. *Less Is More: How Degrowth Will Save the World*. London: William Heinemann, 2020.
 
-- Rennert, K. et al. (2022). "Comprehensive evidence implies a higher social cost of CO2." *Nature*, 610, 687–692.
+IRENA. *World Energy Transitions Outlook 2022: 1.5C Pathway*. Abu Dhabi: International Renewable Energy Agency, 2022.
 
-- Sparkman, G. & Walton, G.M. (2017). "Dynamic Norms Promote Sustainable Behavior, Even if It Is Counternormative." *Psychological Science*, 28(11), 1663–1674.
+Jenkins, K., et al. "Energy Justice: A Conceptual Review." *Energy Research and Social Science* 11 (2016): 174--182.
 
-- Stern, N. (2006). *The Economics of Climate Change: The Stern Review*. Cambridge University Press.
+Leiserowitz, A., et al. *Climate Change in the American Mind*. New Haven, CT: Yale Program on Climate Change Communication, 2023.
 
-- Swiss Re Institute. (2021). *The Economics of Climate Change: No Action Not an Option*.
+Marshall, G. *Don't Even Think About It: Why Our Brains Are Wired to Ignore Climate Change*. New York: Bloomsbury, 2014.
 
-- Wynes, S. & Nicholas, K.A. (2017). "The climate mitigation gap: education and government recommendations miss the most effective individual actions." *Environmental Research Letters*, 12(7), 074024.
+Mildenberger, M. *Carbon Captured: How Business and Labor Control Climate Politics*. Cambridge, MA: MIT Press, 2020.
 
-[Additional Part VI sources to be added during drafting]
+Norgaard, K.M. *Living in Denial: Climate Change, Emotions, and Everyday Life*. Cambridge, MA: MIT Press, 2011.
+
+Schlosberg, D., and L.B. Collins. "From Environmental to Climate Justice: Climate Change and the Discourse of Environmental Justice." *WIREs Climate Change* 5, no. 3 (2014): 359--374.
+
+Sovacool, B.K., et al. "Decarbonization and Its Discontents: A Critical Energy Justice Perspective on Four Low-Carbon Transitions." *Climatic Change* 155 (2019): 581--619.
+
+Stokes, L.C. *Short Circuiting Policy: Interest Groups and the Battle Over Clean Energy and Climate Policy in the American States*. Oxford: Oxford University Press, 2020.
+
+Tessum, C.W., et al. "PM2.5 Polluters Disproportionately and Systemically Affect People of Color in the United States." *Science Advances* 7, no. 18 (2021): eabf4491.
+
+---
+
+## Part V: The Path Forward
+
+Aronczyk, M. "Public Relations, Neoliberalism and the Oil Industry." In *Routledge Handbook of Energy Democracy*. London: Routledge, 2019.
+
+Bollinger, B., and K. Gillingham. "Peer Effects in the Diffusion of Solar Photovoltaic Panels." *Marketing Science* 31, no. 6 (2012): 900--912.
+
+Bos, K., and J. Gupta. "Stranded Assets and Stranded Resources: Implications for Climate Change Mitigation and Global Sustainable Development." *Energy Research and Social Science* 56 (2019): 101215.
+
+Carbon Tracker Initiative. *Unburnable Carbon: Are the World's Financial Markets Carrying a Carbon Bubble?* Updated edition. London: Carbon Tracker, 2023.
+
+Creutzig, F., et al. "Demand-Side Solutions to Climate Change Mitigation Consistent with High Levels of Well-Being." *Nature Climate Change* 12 (2022): 36--46.
+
+Ebi, K.L., et al. "Hot Weather and Heat Extremes: Health Risks." *The Lancet* 398, no. 10301 (2021): 698--708.
+
+Franta, B. "Early Oil Industry Disinformation on Global Warming." *Annals of the New York Academy of Sciences* 1505, no. 1 (2021): 68--82.
+
+Geels, F.W., et al. "Sociotechnical Transitions for Deep Decarbonization." *Science* 357, no. 6357 (2017): 1242--1244.
+
+Gillingham, K., and J.H. Stock. "The Cost of Reducing Greenhouse Gas Emissions." *Journal of Economic Perspectives* 32, no. 4 (2018): 53--72.
+
+Global Energy Monitor. *Global Coal Plant Tracker* and *Global Oil and Gas Extraction Tracker*. Reports, 2023.
+
+Grubler, A., et al. "A Low Energy Demand Scenario for Meeting the 1.5C Target and Sustainable Development Goals without Negative Emission Technologies." *Nature Energy* 3 (2018): 515--527.
+
+Hawken, P., ed. *Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming*. New York: Penguin Books, 2017.
+
+IEA. *Net Zero Roadmap: A Global Pathway to Keep the 1.5C Goal in Reach* (2023 Update). Paris: International Energy Agency, 2023.
+
+IEA. *World Energy Investment 2023*. Paris: International Energy Agency, 2023.
+
+InfluenceMap. Annual reports on corporate climate lobbying and policy engagement.
+
+IPCC. *Global Warming of 1.5C: An IPCC Special Report on the Impacts of Global Warming of 1.5C Above Pre-Industrial Levels*. Cambridge: Cambridge University Press, 2018.
+
+IPCC. *Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report*. Cambridge: Cambridge University Press, 2022.
+
+Ivanova, D., et al. "Quantifying the Potential for Climate Change Mitigation of Consumption Options." *Environmental Research Letters* 15, no. 9 (2020): 093001.
+
+Lamb, W.F., et al. "Discourses of Climate Delay." *Global Sustainability* 3 (2020): e17.
+
+Lazard. *Lazard's Levelized Cost of Energy Analysis -- Version 16.0*. 2023.
+
+Mann, M.E. *The New Climate War: The Fight to Take Back Our Planet*. New York: PublicAffairs, 2021.
+
+Markard, J. "The Next Phase of the Energy Transition and Its Implications for Research and Policy." *Nature Energy* 3 (2018): 628--633.
+
+McKie, R.E. "Climate Change Counter Movement Neutralization Techniques: A Typology to Examine the Climate Change Counter Movement." *Sociological Inquiry* 89, no. 2 (2019): 288--316.
+
+Nielsen, K.S., et al. "How Psychology Can Help Limit Climate Change." *American Psychologist* 76, no. 1 (2021): 130--144.
+
+Oreskes, N., and E.M. Conway. *Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming*. New York: Bloomsbury Press, 2010.
+
+Rennert, K., et al. "Comprehensive Evidence Implies a Higher Social Cost of CO2." *Nature* 610 (2022): 687--692.
+
+Rogelj, J., et al. "Scenarios towards Limiting Global Mean Temperature Increase below 1.5C." *Nature Climate Change* 8 (2018): 325--332.
+
+Sparkman, G., and G.M. Walton. "Dynamic Norms Promote Sustainable Behavior, Even if It Is Counternormative." *Psychological Science* 28, no. 11 (2017): 1663--1674.
+
+Stern, N. *The Economics of Climate Change: The Stern Review*. Cambridge: Cambridge University Press, 2006.
+
+Supran, G., and N. Oreskes. "Assessing ExxonMobil's Climate Change Communications (1977--2014)." *Environmental Research Letters* 12, no. 8 (2017): 084019.
+
+Supran, G., S. Rahmstorf, and N. Oreskes. "Assessing ExxonMobil's Global Warming Projections." *Science* 379, no. 6628 (2023): eabk0063.
+
+Swiss Re Institute. *The Economics of Climate Change: No Action Not an Option*. Zurich: Swiss Re, 2021.
+
+Trencher, G., et al. "Revisiting Carbon Lock-In in Energy Systems: Explaining the Perpetuation of Coal Power in Japan." *Energy Research and Social Science* 69 (2020): 101770.
+
+UNEP, IISD, et al. *Production Gap Report 2023*. Nairobi: United Nations Environment Programme, 2023.
+
+Victor, D.G., et al. "Prove Paris Was More Than Paper Promises." *Nature* 548 (2019): 25--27.
+
+Wynes, S., and K.A. Nicholas. "The Climate Mitigation Gap: Education and Government Recommendations Miss the Most Effective Individual Actions." *Environmental Research Letters* 12, no. 7 (2017): 074024.
 
 ---
 
 ## General References
 
-### Foundational Texts
+BloombergNEF. *New Energy Outlook* and *Lithium-Ion Battery Pack Prices*. Annual series.
 
-- Carson, R. (1962). *Silent Spring*. Houghton Mifflin.
+Carson, R. *Silent Spring*. Boston: Houghton Mifflin, 1962.
 
-- Klein, N. (2014). *This Changes Everything: Capitalism vs. the Climate*. Simon & Schuster.
+Climate Bonds Initiative. *Global Green Bond Market Summary*. Annual series.
 
-- Kolbert, E. (2014). *The Sixth Extinction: An Unnatural History*. Henry Holt.
+Gates, B. *How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need*. New York: Knopf, 2021.
 
-- Lovelock, J. (1979). *Gaia: A New Look at Life on Earth*. Oxford University Press.
+Global Carbon Project. *Global Carbon Budget*. Annual series.
 
-- McKibben, B. (1989). *The End of Nature*. Random House.
+Griffith, S. *Electrify: An Optimist's Playbook for Our Clean Energy Future*. Cambridge, MA: MIT Press, 2022.
 
-- Raworth, K. (2017). *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*. Chelsea Green Publishing.
+Helm, D. *Net Zero: How We Stop Causing Climate Change*. London: William Collins, 2020.
 
-- Wilson, E.O. (2016). *Half-Earth: Our Planet's Fight for Life*. Liveright.
+IEA. *Global EV Outlook*. Annual series. Paris: International Energy Agency.
 
-### Key Reports and Databases
+IEA. *World Energy Outlook*. Annual series. Paris: International Energy Agency.
 
-- BloombergNEF. *New Energy Outlook* and *Lithium-Ion Battery Pack Prices* (annual series).
+IRENA. *Renewable Power Generation Costs*. Annual series. Abu Dhabi: International Renewable Energy Agency.
 
-- Climate Bonds Initiative. *Global Green Bond Market Summary* (annual series).
+Klein, N. *This Changes Everything: Capitalism vs. the Climate*. New York: Simon and Schuster, 2014.
 
-- Global Carbon Project. *Global Carbon Budget* (annual series).
+Kolbert, E. *The Sixth Extinction: An Unnatural History*. New York: Henry Holt, 2014.
 
-- IEA. *World Energy Outlook* (annual series).
+Lovelock, J. *Gaia: A New Look at Life on Earth*. Oxford: Oxford University Press, 1979.
 
-- IEA. *Global EV Outlook* (annual series).
+Lovins, A.B. *Reinventing Fire: Bold Business Solutions for the New Energy Era*. White River Junction, VT: Chelsea Green Publishing, 2011.
 
-- IRENA. *Renewable Power Generation Costs* (annual series).
+McKibben, B. *The End of Nature*. New York: Random House, 1989.
 
-- PwC. *State of Climate Tech* (annual series).
+Nordhaus, W.D. *The Climate Casino: Risk, Uncertainty, and Economics for a Warming World*. New Haven, CT: Yale University Press, 2013.
 
-- UNEP. *Emissions Gap Report* (annual series).
+PwC. *State of Climate Tech*. Annual series.
 
-- UNEP. *Adaptation Gap Report* (annual series).
+Raworth, K. *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*. White River Junction, VT: Chelsea Green Publishing, 2017.
 
-- World Bank. *State and Trends of Carbon Pricing* (annual series).
+Smil, V. *How the World Really Works: The Science Behind How We Got Here and Where We're Going*. New York: Viking, 2022.
 
-[Additional general references to be added during drafting]
+Stokes, L.C. *Short Circuiting Policy: Interest Groups and the Battle Over Clean Energy and Climate Policy in the American States*. Oxford: Oxford University Press, 2020.
 
----
+UNEP. *Adaptation Gap Report*. Annual series. Nairobi: United Nations Environment Programme.
 
-## Bibliography Notes
+UNEP. *Emissions Gap Report*. Annual series. Nairobi: United Nations Environment Programme.
 
-**Format conventions:** All entries follow Chicago Manual of Style 17th edition author-date format. URLs are provided for reports available online; access dates will be included for web-only sources in the final version.
+Victor, D.G. *Global Warming Gridlock: Creating More Effective Strategies for Protecting the Planet*. Cambridge: Cambridge University Press, 2011.
 
-**Living document:** This bibliography will be expanded during the drafting process. Each chapter will contribute additional sources. The goal is a comprehensive but curated bibliography that serves as a resource for readers wanting to go deeper on any topic.
+Wilson, E.O. *Half-Earth: Our Planet's Fight for Life*. New York: Liveright, 2016.
 
-**Verification:** All sources will be verified for accuracy of citation details, accessibility, and currency before final publication.
+World Bank. *State and Trends of Carbon Pricing*. Annual series. Washington, DC: World Bank.

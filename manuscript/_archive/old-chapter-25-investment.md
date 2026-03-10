@@ -1,7 +1,7 @@
-# Chapter 16: The Investment Challenge
+# Chapter 25: The Investment Challenge
 ## Bridging the Trillion-Dollar Gap
 
-**Part V: The Obstacles**
+**Part VII: The Obstacles**
 **Target word count: 6,000 words**
 
 ---
@@ -62,7 +62,7 @@ But the headline number concealed a deeply uneven geography. The vast majority o
 ### Content Notes
 
 - **The climate tech investment wave**: After the "cleantech 1.0" bust of 2008-2012 (where VCs lost billions on capital-intensive clean energy hardware companies — Solyndra being the most infamous example), climate tech investing went through a fallow period. It re-emerged around 2019-2020, rebranded from "cleantech" to "climate tech," with a broader scope (software, food, agriculture, built environment, carbon removal, circular economy) and more sophisticated investment theses.
-- **Peak and correction**: PwC State of Climate Tech report and CTVC (Climate Tech VC) data tracked the boom. Climate tech VC peaked at approximately $40 billion in 2022 (some sources put the 2021-2022 peak slightly differently depending on methodology). The 2023 correction was significant — investment fell to approximately $30 billion or below, driven by rising interest rates, broader VC market downturn, and the burst of SPAC-driven public market speculation.
+- **Peak and correction**: PwC State of Climate Tech report and CTVC (Climate Tech VC) data tracked the boom. Climate tech VC peaked at approximately $50-70 billion in 2022 depending on methodology (PwC: $50B+; HolonIQ: $70B; BNEF: $59B). The 2023 correction was significant — investment fell to approximately $30 billion or below, driven by rising interest rates, broader VC market downturn, and the burst of SPAC-driven public market speculation.
 - **The "valley of death" problem**: Climate tech faces a distinctive challenge compared to software startups. Many climate solutions — batteries, green hydrogen, carbon capture, alternative proteins, new building materials — require physical infrastructure, manufacturing scale-up, and pilot deployments that cost tens to hundreds of millions of dollars. VC funding can support early R&D, but the gap between successful prototype and commercially viable first-of-a-kind facility is where many promising technologies die. This "missing middle" or "valley of death" is too large for VCs, too risky for project finance, and too early for infrastructure funds.
 - **Sectoral distribution**: Where climate tech VC dollars actually go. Transport/mobility (especially EVs) captured the largest share. Energy generation and storage attracted significant funding. Carbon removal, food/agriculture, and the built environment received smaller shares despite enormous potential impact.
 - **The role of corporate venture capital**: Oil and gas companies (Chevron Technology Ventures, bp ventures, Equinor Ventures), automakers, and utilities increasingly invested in climate tech, though often at levels dwarfed by their core business capital expenditures.
@@ -70,7 +70,7 @@ But the headline number concealed a deeply uneven geography. The vast majority o
 
 ### Key Data Points
 
-- **~$40 billion**: Approximate peak climate tech VC investment (2022) (source: PwC State of Climate Tech 2023; CTVC)
+- **~$50-70 billion**: Approximate peak climate tech VC investment (2022) depending on methodology (source: PwC: $50B+; HolonIQ: $70B; BNEF: $59B)
 - **~$30 billion**: Climate tech VC in 2023, reflecting market correction (source: CTVC / PwC; exact figures vary by data provider)
 - **2008-2012**: "Cleantech 1.0" bust — VCs lost an estimated $25+ billion (source: MIT Energy Initiative study; various)
 - **Solyndra**: $535 million DOE loan guarantee; company filed for bankruptcy in 2011 — became a political symbol that set back clean energy investment for years
@@ -231,5 +231,7 @@ But the headline number concealed a deeply uneven geography. The vast majority o
 - BlackRock annual stewardship reports and proxy voting records
 
 ---
+
+**Closing — Return to Opening Scene:** Return to the IEA's June 2023 report and its landmark data point: $1.70 in clean energy investment for every $1 in fossil fuels. The chapter has mapped what that headline number obscures — the geographic concentration of investment in wealthy nations, the adaptation finance gap, the valley of death for hardware startups, the ESG credibility crisis, and the emerging architecture of carbon removal markets. The crossover was real. But the gap between $1.8 trillion and the $4.5 trillion per year the IEA says is needed by 2030 remains the defining financial challenge of the decade. The money exists. The question is whether it moves fast enough, and to the right places.
 
 *Chapter 16 draft scaffold — last updated March 2026*

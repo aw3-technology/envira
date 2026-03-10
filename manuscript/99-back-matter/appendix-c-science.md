@@ -1,181 +1,85 @@
-# Appendix C: Science Deep Dives
+# Appendix C: The Science Behind the Numbers
 
-**Target word count:** ~3,000 words
-**Format:** Technical supplements for readers wanting more detail on the science behind key topics covered in the book. Each section provides accessible but rigorous explanations with pointers to primary sources.
-**Tone:** Clear, precise, educational — assumes an intelligent lay reader willing to engage with technical material.
+This appendix provides accessible but rigorous explanations of three areas of climate science that underpin many of the claims and projections discussed throughout this book: how climate models work, how we track and budget carbon emissions, and what scientists mean when they talk about tipping points. These are not comprehensive reviews but rather introductions to key concepts, designed to give readers the tools to evaluate claims encountered in public debate. Each section closes with references to primary sources for those who wish to go further.
 
 ---
 
-## 1. Climate Modeling Methodologies
+## How Climate Models Work
 
-### Key Points to Cover
+The climate projections cited throughout this book -- from temperature trajectories to sea-level rise to shifts in rainfall patterns -- originate from a class of tools known as General Circulation Models, or GCMs. Understanding how these models work, where they excel, and where they remain uncertain is essential to interpreting their output.
 
-**General Circulation Models (GCMs) and Earth System Models (ESMs):**
-- What they are: numerical models that simulate the physics of the atmosphere, ocean, land surface, and cryosphere on a 3D grid
-- The difference: GCMs focus on physical climate; ESMs add biogeochemical cycles (carbon cycle, vegetation dynamics, atmospheric chemistry)
-- How they work: divide Earth's surface and atmosphere into grid cells (typically 50–250 km resolution); solve fundamental equations of motion, thermodynamics, and radiative transfer for each cell at each time step
-- CMIP6: the Coupled Model Intercomparison Project Phase 6; ~100 models from ~50 research groups worldwide; provides the model ensemble underlying IPCC assessments
+A GCM is, at its core, a numerical simulation of the physics governing Earth's atmosphere, oceans, land surface, and ice sheets. The model divides the planet into a three-dimensional grid of cells, typically ranging from 50 to 250 kilometers across at the surface, with multiple vertical layers extending through the atmosphere and into the ocean depths. For each cell at each time step -- usually intervals of minutes to hours -- the model solves the fundamental equations of fluid dynamics, thermodynamics, and radiative transfer. These are the same equations that describe how air and water move, how heat flows, and how energy from the sun interacts with gases and surfaces. The result is a physically grounded simulation of how the climate system evolves over time.
 
-**Resolution and Uncertainty:**
-- Spatial resolution: current GCMs typically 50–250 km; too coarse to resolve individual storms, cities, or small islands; downscaling techniques (statistical and dynamical) bridge the gap
-- Temporal resolution: model time steps of minutes to hours; output typically analyzed at daily, monthly, or annual scales
-- Sources of uncertainty: (1) internal variability — chaotic nature of climate system; (2) model uncertainty — different models represent processes differently; (3) scenario uncertainty — future emissions depend on human choices
-- Ensemble approach: using many models and many runs to characterize the range of possible outcomes; the IPCC "likely" range represents 66–100% probability
+Earth System Models, or ESMs, extend this framework by incorporating biogeochemical cycles. Where a GCM simulates the physical climate alone, an ESM also represents the carbon cycle, vegetation dynamics, atmospheric chemistry, and the interactions among them. This means ESMs can simulate how warming soils release stored carbon, which amplifies warming, which releases more carbon -- a feedback loop that GCMs alone cannot capture. For the long-term projections most relevant to climate policy, ESMs have become the standard tool.
 
-**Machine Learning Enhancements:**
-- ML weather/climate models (DeepMind's GraphCast, Huawei's Pangu-Weather): trained on reanalysis data; produce 10-day forecasts in seconds vs. hours for physics-based models; increasingly competitive on skill scores
-- Hybrid approaches: using ML to improve parameterizations of sub-grid processes (clouds, convection, turbulence) within physics-based models
-- Limitations: ML models trained on historical data may not extrapolate well to unprecedented climate states; physics-based models remain essential for novel forcing scenarios
+The international backbone of climate modeling is the Coupled Model Intercomparison Project, now in its sixth phase, known as CMIP6. Roughly 100 models from approximately 50 research groups around the world participate. Each group runs its model under a standardized set of scenarios -- assumptions about future greenhouse gas emissions, land use, and other factors -- and contributes results to a shared archive. This archive provides the multi-model ensemble that underlies the projections in IPCC assessment reports. When the IPCC states that global temperatures are likely to rise by a certain amount under a given scenario, that statement rests on the collective output of these dozens of independently developed models.
 
-**Source references:**
-- IPCC AR6 WGI, Chapter 1 (Framing, Context, and Methods) and Chapter 4 (Future Global Climate)
-- Eyring, V. et al. (2016), "Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6)," *Geoscientific Model Development*
-- Lam, R. et al. (2023), "Learning skillful medium-range global weather forecasting," *Science* (GraphCast paper)
+The ensemble approach is central to how scientists characterize uncertainty. No single model is taken as definitive. Instead, the range of results across models and across multiple runs of the same model reveals the spread of plausible outcomes. Three distinct sources of uncertainty contribute to this spread. The first is internal variability: the climate system is inherently chaotic, meaning that even with identical forcing, different runs of the same model can produce different year-to-year weather patterns. The second is model uncertainty: different research groups make different choices about how to represent processes that operate below the grid scale, such as cloud formation, convection, and turbulent mixing. The third is scenario uncertainty: future emissions depend on human decisions that cannot be predicted by any model. When the IPCC reports a "likely" range, it refers to outcomes that at least 66 percent of models agree on -- a deliberately conservative framing.
+
+Resolution remains one of the most significant limitations. At 100-kilometer grid spacing, a GCM cannot resolve individual thunderstorms, cities, mountain valleys, or small island nations. Yet these are precisely the scales at which climate impacts are most acutely felt. To bridge this gap, scientists use downscaling techniques. Statistical downscaling applies observed relationships between large-scale climate patterns and local conditions to translate coarse model output into finer-grained projections. Dynamical downscaling nests a higher-resolution regional model within the global model, simulating local physics in greater detail but at much higher computational cost. Both approaches introduce additional uncertainty, and neither fully substitutes for running the global model at higher resolution -- something that remains prohibitively expensive for most applications.
+
+In recent years, machine learning has begun to transform parts of this landscape. DeepMind's GraphCast and Huawei's Pangu-Weather, both published in 2023, demonstrated that neural networks trained on decades of atmospheric reanalysis data can produce medium-range weather forecasts -- up to about 10 days ahead -- in seconds rather than the hours required by traditional physics-based models. On standard skill metrics, these ML models proved competitive with or superior to the leading operational forecast systems. Other research groups are using ML to improve the representation of sub-grid processes within physics-based models, training neural networks to emulate cloud behavior or convective dynamics more accurately and efficiently than traditional parameterization schemes.
+
+These advances are genuine, but they come with an important caveat. Machine learning models are trained on historical data. They learn the statistical patterns of how the atmosphere has behaved in the past. When applied to climate states that have no precedent in the training data -- such as a world with atmospheric CO2 concentrations 50 percent higher than anything in the observational record -- their reliability is uncertain. For this reason, physics-based models remain indispensable for long-term climate projection. The most promising near-term path is likely a hybrid approach: physics-based models providing the structural framework for novel climate states, with ML components accelerating computation and improving the representation of specific processes.
 
 ---
 
-## 2. Carbon Cycle Accounting
+## Carbon Budget Accounting
 
-### Key Points to Cover
+The claim that humanity has a finite "carbon budget" -- a total quantity of CO2 it can emit while limiting warming to a given level -- is one of the most consequential findings in climate science. Understanding how that budget is calculated, and how emissions are measured in the first place, illuminates both the precision and the uncertainty behind the numbers cited in this book.
 
-**How Emissions Are Measured:**
-- Bottom-up approach: summing emissions from individual sources based on activity data (fuel burned, cement produced, land cleared) multiplied by emission factors; national inventories use this approach (UNFCCC reporting)
-- Top-down approach: measuring atmospheric concentrations and using atmospheric transport models to infer emissions; satellite-based (OCO-2, TROPOMI) and ground-based (flask network) observations
-- Facility-level monitoring: continuous emissions monitoring systems (CEMS) at power plants and industrial facilities; increasingly supplemented by satellite-based detection (GHGSat, MethaneSAT, Climate TRACE)
+Emissions are measured through two complementary approaches. The bottom-up method sums emissions from individual sources: the quantity of coal, oil, and gas burned; the volume of cement produced; the area of forest cleared. Activity data are multiplied by emission factors -- standardized estimates of how much CO2 each activity releases per unit. This is the method used in national greenhouse gas inventories submitted to the United Nations Framework Convention on Climate Change, and it provides the most granular view of where emissions originate. The top-down method works in the opposite direction. Scientists measure atmospheric concentrations of CO2 and other greenhouse gases using ground-based monitoring stations, aircraft, and satellites such as NASA's Orbiting Carbon Observatory (OCO-2) and the European Space Agency's TROPOMI instrument. Atmospheric transport models then work backward from concentration measurements to infer the location and magnitude of sources and sinks. Where the two methods disagree, the discrepancy itself becomes informative, pointing to emissions that inventories may be underestimating or sinks that are less effective than assumed.
 
-**Gross vs. Net Emissions:**
-- Gross emissions: total GHGs released from all sources
-- Net emissions: gross emissions minus removals (by forests, soils, oceans, and engineered systems)
-- The distinction matters: a country can have stable gross emissions but declining net emissions due to growing forests, or vice versa
-- The "net zero" concept: net emissions = zero; does NOT mean zero gross emissions; requires balancing remaining emissions with equivalent removals
+A third, increasingly important approach operates at the facility level. Continuous emissions monitoring systems installed at power plants and industrial facilities provide real-time measurements. Satellite-based platforms such as GHGSat, MethaneSAT, and the Climate TRACE coalition are extending this capability globally, detecting methane plumes from oil and gas operations and verifying reported emissions against independent observations. As Chapter 3 discusses, this emerging infrastructure amounts to a planetary accountability system that is closing the gap between what companies and countries report and what is actually entering the atmosphere.
 
-**Scope 1, 2, and 3 Emissions (GHG Protocol):**
-- Scope 1: direct emissions from owned/controlled sources (e.g., a factory's smokestack, company vehicles)
-- Scope 2: indirect emissions from purchased electricity, steam, heating, and cooling (e.g., emissions from the power plant generating a company's electricity)
-- Scope 3: all other indirect emissions in a company's value chain — upstream (purchased goods, business travel, employee commuting) and downstream (product use, end-of-life treatment)
-- Why it matters: Scope 3 typically represents 70–90% of a company's total footprint; it is also the hardest to measure and the most subject to double-counting and estimation uncertainty
-- Challenges: data availability, allocation methods, boundary setting; the GHG Protocol is developing updated guidance for Scope 3
+The distinction between gross and net emissions is critical for evaluating climate targets. Gross emissions represent the total quantity of greenhouse gases released from all human sources. Net emissions subtract the CO2 absorbed by forests, soils, oceans, and engineered removal systems. A country or company can show stable gross emissions while achieving declining net emissions because its forests are growing, or it can show declining gross emissions while net emissions remain flat because its natural carbon sinks are weakening. The concept of "net zero" -- the stated goal of most national climate pledges -- means reducing net emissions to zero. This does not require eliminating all sources of greenhouse gas release. It requires balancing whatever residual emissions remain with equivalent removals. The gap between gross and net, and the reliability of the removal side of that equation, is one of the most contested areas in climate policy.
 
-**The Global Carbon Budget:**
-- Global Carbon Project publishes annually: fossil CO2 emissions, land-use change emissions, atmospheric CO2 growth, ocean CO2 sink, land CO2 sink
-- Key concept: the carbon budget — the total amount of CO2 that can be emitted while still limiting warming to a given level with a given probability
-- Remaining budget for 1.5°C (50% probability): ~250 GtCO2 from Jan 2024; for 2°C (67%): ~1,150 GtCO2
-- Budget uncertainty: depends on climate sensitivity, non-CO2 forcing, carbon cycle feedbacks; IPCC provides ranges
+For companies, the Greenhouse Gas Protocol provides the standard accounting framework, dividing emissions into three scopes. Scope 1 covers direct emissions from sources a company owns or controls: a factory's smokestack, a fleet of delivery trucks. Scope 2 covers indirect emissions from purchased energy -- the CO2 released by the power plant generating a company's electricity. Scope 3 covers everything else in the value chain, both upstream (the emissions embedded in purchased materials, business travel, employee commuting) and downstream (emissions from a product's use and disposal by consumers). For most companies, Scope 3 represents 70 to 90 percent of the total footprint. It is also the hardest to measure, the most dependent on estimates and assumptions, and the most vulnerable to double-counting across corporate boundaries. When a company claims to have measured its carbon footprint, the treatment of Scope 3 is often where the rigor is tested.
 
-**Source references:**
-- Friedlingstein, P. et al. (2023), "Global Carbon Budget 2023," *Earth System Science Data*
-- GHG Protocol, *Corporate Standard* and *Scope 3 Standard*
-- IPCC AR6 WGI, Chapter 5 (Global Carbon and Other Biogeochemical Cycles and Feedbacks)
+The Global Carbon Budget, published annually by the Global Carbon Project, provides the authoritative accounting of humanity's carbon flows. It tracks five quantities: fossil CO2 emissions, emissions from land-use change, the growth of CO2 in the atmosphere, the amount absorbed by the ocean, and the amount absorbed by land ecosystems. The budget must balance: emissions minus sinks must equal atmospheric growth, within measurement uncertainty. Any discrepancy points to processes that are not yet fully understood.
+
+From this accounting framework comes the carbon budget concept. The relationship between cumulative CO2 emissions and global temperature rise is approximately linear -- a finding the IPCC describes as one of the most robust in climate science. This means that for any temperature limit, there is a corresponding total quantity of CO2 that can be emitted. The IPCC's Sixth Assessment Report estimated that limiting warming to 1.5 degrees Celsius (2.7 degrees Fahrenheit) above pre-industrial levels with a 50 percent probability required keeping total remaining emissions from the start of 2020 below approximately 500 gigatons of CO2. At current emission rates of roughly 40 to 46 gigatons per year, that budget is being depleted rapidly. Updated estimates from the Global Carbon Budget suggest that as of early 2024, the remaining budget for 1.5 degrees at 50 percent probability stood at approximately 250 GtCO2 -- roughly six years of current emissions. For 2 degrees Celsius (3.6 degrees Fahrenheit) at 67 percent probability, the budget was approximately 1,150 GtCO2.
+
+These numbers carry significant uncertainty. The carbon budget depends on climate sensitivity (how much warming results from a given increase in CO2), on the trajectory of non-CO2 greenhouse gases such as methane and nitrous oxide, and on carbon cycle feedbacks -- the possibility that warming itself could trigger additional releases of carbon from permafrost, peatlands, or weakening ocean sinks. The IPCC provides ranges rather than single values, and those ranges are wide. But the central message is not sensitive to these uncertainties: the remaining budget is finite, it is shrinking with every year of emissions, and the math demands rapid and sustained reductions.
 
 ---
 
-## 3. Renewable Energy Physics
+## Tipping Points: The Science of Irreversibility
 
-### Key Points to Cover
+Perhaps no concept in climate science generates more urgency -- or more confusion -- than the idea of tipping points. A tipping point is a threshold beyond which a component of the climate system transitions to a qualitatively different state, and the transition, once triggered, becomes self-sustaining even if the forcing that initiated it is removed. The distinction from gradual change matters enormously: a tipping point means that some consequences of warming may be irreversible on any timescale relevant to human civilization.
 
-**Solar Cell Efficiency:**
-- Photovoltaic effect: photons excite electrons in semiconductor material, creating electrical current
-- Shockley-Queisser limit: theoretical maximum efficiency for a single-junction solar cell is ~33.7% (for silicon, ~29%); limited by thermalization losses and below-bandgap transparency
-- Current records: monocrystalline silicon ~26.8% (lab); commercial modules typically 20–23%; multi-junction cells >47% (lab, concentrated sunlight)
-- Perovskite cells: new material class; lab efficiency >26% (single junction); potential for lower cost manufacturing; perovskite-silicon tandems >33% efficiency (lab); stability and scaling are key challenges
-- Beyond efficiency: cost per watt matters more than efficiency for deployment; silicon module costs have fallen from ~$76/W (1977) to <$0.20/W (2023)
+The concept is grounded in well-established physics. Many components of the Earth system exhibit nonlinear behavior -- they do not respond proportionally to the forces acting on them. Instead, they can maintain a stable state under increasing stress until a critical threshold is crossed, at which point positive feedbacks drive a rapid shift to a new equilibrium. The Greenland ice sheet provides a canonical example. As the ice surface melts and lowers in elevation, it encounters warmer air at the lower altitude, which accelerates melting, which lowers the surface further. Beyond a certain degree of warming, this feedback loop becomes self-sustaining: the ice sheet would continue to shrink even if global temperatures were stabilized. The result, playing out over centuries to millennia, would be several meters of sea-level rise.
 
-**Wind Power Capacity Factors:**
-- Capacity factor: actual energy produced / maximum possible energy if running at full rated power continuously
-- Onshore wind: typical capacity factors 25–45% depending on location and turbine technology
-- Offshore wind: typical capacity factors 35–55%; higher and more consistent wind speeds offshore
-- Betz limit: theoretical maximum extraction of kinetic energy from wind is ~59.3% of wind's total energy; modern turbines achieve ~75–80% of Betz limit at optimal wind speeds
-- Turbine trends: larger rotors and taller towers access stronger, more consistent winds at higher altitudes; modern offshore turbines: 15+ MW rated capacity, 220+ m rotor diameter
+A landmark 2022 study led by David Armstrong McKay and published in *Science* provided the most comprehensive assessment to date of potential climate tipping points. The research team identified 16 major tipping elements in the Earth system and assessed the temperature thresholds at which each might be triggered. Their findings were sobering. Five tipping elements -- the Greenland ice sheet, the West Antarctic ice sheet, tropical coral reefs, boreal permafrost, and the Barents Sea ice -- were assessed as potentially at risk at global warming of 1.5 degrees Celsius, the lower guardrail of the Paris Agreement. At 2 degrees, additional elements including the Amazon rainforest, the Atlantic Meridional Overturning Circulation (AMOC -- the system of ocean currents that includes the Gulf Stream), and boreal forest dieback entered the risk zone. Beyond 2 degrees, the number of potentially triggered tipping points increased sharply.
 
-**Battery Chemistry Basics:**
-- Lithium-ion: dominant battery chemistry; cathode chemistries include NMC (nickel-manganese-cobalt), NCA (nickel-cobalt-aluminum), LFP (lithium iron phosphate)
-- Energy density: NMC: ~250–300 Wh/kg; LFP: ~150–200 Wh/kg; LFP advantages: lower cost, longer cycle life, no cobalt, better safety
-- Degradation: lithium-ion batteries lose capacity over time; modern EV batteries retain ~80% capacity after 200,000+ miles / 10+ years
-- Beyond lithium-ion: sodium-ion (abundant materials, lower cost, lower energy density); solid-state (higher energy density, safety); iron-air (ultra-low-cost, long duration, low energy density); flow batteries (scalable duration, grid-scale)
-- Grid storage economics: lithium-ion dominates 2–4 hour storage; costs ~$150–250/kWh (system level, 2023); long-duration storage (10–100+ hours) needs different chemistries at <$20/kWh targets
+Critically, some of these tipping elements interact. The collapse of the AMOC would alter rainfall patterns across the tropics, potentially stressing the Amazon rainforest. Amazon dieback would release vast stores of carbon, accelerating warming, which could push other systems past their thresholds. Scientists describe this possibility as a "tipping cascade" -- a scenario in which crossing one threshold makes it more likely that others will be crossed in succession. The 2019 commentary by Timothy Lenton and colleagues in *Nature* argued that the risk of such cascading interactions had been underestimated and that the potential for a global cascade of tipping points could not be ruled out.
 
-**Source references:**
-- Green, M.A. et al. (2023), "Solar cell efficiency tables (version 62)," *Progress in Photovoltaics*
-- NREL, *Best Research-Cell Efficiency Chart*
-- BloombergNEF, *Lithium-Ion Battery Pack Prices* (annual)
-- IRENA, *Renewable Power Generation Costs in 2022*
+Understanding the timescales involved is important for interpreting what tipping points mean in practice. Some transitions, once triggered, would unfold quickly. Coral reef die-off under sustained warming is already observable and operates on a timescale of years to decades. Permafrost thaw and the associated release of carbon and methane are accelerating and could become a significant amplifying feedback within decades. Other transitions operate on much longer timescales. The full disintegration of the Greenland or West Antarctic ice sheets, even if triggered this century, would likely take centuries to millennia. The AMOC weakening -- which observational data suggest may already be underway, though the evidence remains debated -- could shift over decades to centuries. These longer timescales do not diminish the significance of the tipping point; they mean that decisions made in the coming years could lock in consequences that unfold irreversibly across generations.
+
+The uncertainty surrounding tipping points is substantial and cuts in both directions. Temperature thresholds are estimated as ranges, not precise values. For the Greenland ice sheet, the Armstrong McKay study estimated a tipping range of 0.8 to 3.0 degrees Celsius of global warming -- a wide band that reflects genuine scientific uncertainty about the underlying physics. For the AMOC, the range was 1.4 to 8.0 degrees. This uncertainty does not mean that tipping points are speculative or merely theoretical. It means that we cannot determine in advance exactly when a threshold will be crossed. The prudent response, as the researchers emphasize, is to treat the lower bound of each range as the relevant planning threshold -- precisely because waiting for certainty means waiting until it is too late.
+
+The IPCC Sixth Assessment Report treats tipping points with measured language, noting that the probability of triggering large-scale discontinuities increases with warming and that some low-likelihood, high-impact outcomes cannot be ruled out even at relatively modest levels of warming. The report assesses that the risk of irreversible changes increases steeply between 1.5 and 2 degrees, and that limiting warming to the lower end of this range substantially reduces the probability of crossing multiple thresholds.
+
+For the purposes of this book, the tipping point science reinforces a core argument: the relationship between emissions and consequences is not smooth and proportional. There are thresholds in the system, and once crossed, some doors close permanently. This is why climate scientists increasingly frame the challenge not merely as reducing emissions but as avoiding levels of warming at which the Earth system itself begins to amplify the problem beyond human control. Every fraction of a degree matters -- not as rhetoric, but as a statement about the nonlinear physics of the planet we inhabit.
 
 ---
 
-## 4. Ecosystem Metrics
+## Sources
 
-### Key Points to Cover
+Armstrong McKay, D.I., et al. "Exceeding 1.5C Global Warming Could Trigger Multiple Climate Tipping Points." *Science* 377, no. 6611 (2022): eabn7950.
 
-**Biodiversity Indices:**
-- Species richness: simplest measure — number of species in an area; doesn't account for abundance or evenness
-- Shannon diversity index: accounts for both richness and evenness of species distribution; higher values = more diverse
-- Living Planet Index (WWF/ZSL): tracks trends in vertebrate population sizes; 2022 report: average 69% decline since 1970 across ~32,000 monitored populations
-- IUCN Red List: assessed ~150,000 species; ~28% threatened with extinction; provides global baseline but taxonomically biased (well-studied groups overrepresented)
-- Emerging approaches: eDNA-based biodiversity assessment; acoustic indices (soundscape ecology); remote sensing of habitat integrity
+Eyring, V., et al. "Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6): Experimental Design and Organization." *Geoscientific Model Development* 9 (2016): 1937--1958.
 
-**Ecosystem Services Valuation:**
-- Definition: the benefits humans derive from ecosystems — provisioning (food, water), regulating (climate, flood control), cultural (recreation, spiritual), supporting (nutrient cycling, soil formation)
-- Costanza et al. (1997, updated 2014): estimated global ecosystem services at $125–145 trillion/year (exceeding global GDP); controversial but influential framing
-- Natural Capital Protocol: standardized framework for businesses to measure and value their impacts and dependencies on natural capital
-- TNFD (Taskforce on Nature-related Financial Disclosures): developed framework for organizations to report nature-related risks and opportunities; modeled on TCFD for climate
-- Challenges: monetization is reductive; some ecosystem values are incommensurable; but valuation helps make invisible costs visible in economic decision-making
+Friedlingstein, P., et al. "Global Carbon Budget 2023." *Earth System Science Data* 15, no. 12 (2023): 5301--5369.
 
-**Restoration Success Metrics:**
-- How to measure whether ecosystem restoration is working:
-  - Structural metrics: canopy cover, vegetation density, soil organic carbon
-  - Functional metrics: nutrient cycling rates, water infiltration, carbon sequestration rates
-  - Compositional metrics: species richness, community composition compared to reference ecosystems
-  - Temporal benchmarks: restoration trajectories can take decades to centuries; setting intermediate milestones is essential
-- Society for Ecological Restoration (SER) standards: international principles and standards for ecological restoration practice
-- The "restoration success paradox": restoration can improve degraded land significantly while still falling far short of the original ecosystem's biodiversity and function
+GHG Protocol. *Corporate Accounting and Reporting Standard*. Revised edition. Washington, DC: World Resources Institute and World Business Council for Sustainable Development, 2004.
 
-**Source references:**
-- WWF, *Living Planet Report 2022*
-- Costanza, R. et al. (2014), "Changes in the global value of ecosystem services," *Global Environmental Change*
-- TNFD, *Recommendations of the Taskforce on Nature-related Financial Disclosures* (2023)
-- Gann, G.D. et al. (2019), "International principles and standards for the practice of ecological restoration," *Restoration Ecology*
+GHG Protocol. *Corporate Value Chain (Scope 3) Accounting and Reporting Standard*. Washington, DC: World Resources Institute and World Business Council for Sustainable Development, 2011.
 
----
+IPCC. *Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report*. Chapters 1, 4, and 5. Cambridge: Cambridge University Press, 2021.
 
-## 5. Climate Economics Models
+Lam, R., et al. "Learning Skillful Medium-Range Global Weather Forecasting." *Science* 382, no. 6677 (2023): 1416--1421.
 
-### Key Points to Cover
+Lenton, T.M., J. Rockstrom, O. Gaffney, S. Rahmstorf, K. Richardson, W. Steffen, and H.J. Schellnhuber. "Climate Tipping Points -- Too Risky to Bet Against." *Nature* 575 (2019): 592--595.
 
-**Integrated Assessment Models (IAMs):**
-- What they are: models that combine simplified representations of the climate system with economic models to analyze costs and benefits of climate policies
-- Major IAMs: DICE/RICE (William Nordhaus), PAGE (Chris Hope), FUND (Richard Tol); more detailed models: REMIND-MAgPIE, MESSAGE-GLOBIOM, GCAM
-- What they do: project emissions trajectories, climate impacts, and policy costs under different scenarios; used extensively in IPCC assessments
-- Criticisms: sensitivity to discount rate assumptions; difficulty representing tipping points, tail risks, and non-market damages; tendency to underestimate damages; Keen, Pindyck, and others have published significant critiques
-
-**Social Cost of Carbon (SCC):**
-- Definition: the estimated economic damage caused by emitting one additional ton of CO2 (or equivalent); used to evaluate the benefits of emissions reduction policies
-- US government estimate: updated to ~$51/tCO2 (2020 dollars) under Biden administration, up from ~$7 under Trump; EPA proposed update to ~$190/tCO2 in 2022 (draft); wide range reflects uncertainty
-- Key drivers of SCC estimates: discount rate (how much we value future damages relative to present costs), damage function (relationship between temperature and economic harm), climate sensitivity, socioeconomic projections
-- The discount rate debate: Nordhaus (~3%): relatively low SCC, gradual action optimal; Stern (~1.4%): high SCC, urgent action justified; Ramsey equation parameters are ethical choices, not purely technical ones
-
-**Discount Rate Debates:**
-- The central ethical question in climate economics: how much should we weight the welfare of future generations relative to our own?
-- Pure rate of time preference (delta): the rate at which future utility is discounted purely because it occurs in the future; Stern argues this should be near zero (equal treatment of generations); Nordhaus argues it should reflect observed market behavior
-- Growth component: even with zero pure time preference, discounting is justified if future people are expected to be richer (and thus derive less marginal utility from an additional dollar)
-- Recent developments: declining discount rates (hyperbolic discounting) gaining traction; UK and France use declining rates in policy; recognizes that uncertainty about future growth justifies lower rates for long-horizon impacts
-- Practical implication: the discount rate has enormous impact on optimal climate policy; small changes can shift recommendations from gradual to aggressive action
-
-**Beyond GDP: Alternative Economic Frameworks:**
-- Limitations of GDP as a welfare measure: doesn't account for environmental degradation, inequality, health, or sustainability
-- Alternative frameworks: Genuine Progress Indicator (GPI), Inclusive Wealth Index, Doughnut Economics (Kate Raworth), Well-being Economy Governments (WEGo)
-- Relevance to climate policy: if environmental degradation and inequality are factored into economic assessment, the case for aggressive climate action strengthens considerably
-
-**Source references:**
-- Nordhaus, W.D. (2017), "Revisiting the social cost of carbon," *Proceedings of the National Academy of Sciences*
-- Stern, N. (2006), *The Economics of Climate Change: The Stern Review*
-- Pindyck, R.S. (2013), "Climate Change Policy: What Do the Models Tell Us?" *Journal of Economic Literature*
-- Rennert, K. et al. (2022), "Comprehensive evidence implies a higher social cost of CO2," *Nature*
-- Raworth, K. (2017), *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*
-
----
-
-## Appendix Notes
-
-**Purpose:** These deep dives are intended to give readers the conceptual tools to evaluate claims made in public debate about climate science, energy, ecosystems, and economics. They are not comprehensive reviews but rather accessible introductions to key concepts with pointers to primary sources.
-
-**Further reading:** Each section references key papers and reports. For continuously updated scientific assessment, the IPCC Assessment Reports remain the most comprehensive and authoritative source. For energy technology, see IEA and IRENA publications. For economics, see the Review of Environmental Economics and Policy and the Annual Review of Resource Economics.
+Rogelj, J., et al. "Estimating and Tracking the Remaining Carbon Budget for Stringent Climate Targets." *Nature* 571 (2019): 335--342.

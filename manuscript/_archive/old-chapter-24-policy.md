@@ -1,7 +1,7 @@
-# Chapter 15: Policy, Governance, and the Implementation Gap
+# Chapter 24: Policy, Governance, and the Implementation Gap
 ## The Distance Between Promise and Action
 
-**Part V: The Obstacles**
+**Part VII: The Obstacles**
 **Target word count: 7,000 words**
 
 ---
@@ -59,6 +59,10 @@ The IRA was not the comprehensive climate bill that advocates had originally env
 - **John Podesta** — Senior Advisor to the President for Clean Energy Innovation and Implementation (appointed 2023, succeeding Gina McCarthy as the administration's top climate official). Tasked with overseeing IRA implementation. Previously founded the Center for American Progress and served as White House Chief of Staff under Clinton.
 - **Senator Joe Manchin** — The pivotal and contradictory figure. His coal brokerage business (Enersystems), his insistence on fossil fuel provisions, and yet his ultimate role in passing the most significant US climate legislation.
 - **Jesse Jenkins** — Princeton ZERO Lab. His team's modeling of IRA emissions impacts (projecting US emissions reductions of ~40% below 2005 levels by 2030 under full implementation) became a key reference for evaluating the law's potential.
+
+### Recurring Character Note — Brandon Dennison (Coalfield Development)
+
+Return to Brandon Dennison, the Coalfield Development founder profiled in Chapter 20's opening scene. The IRA's energy community tax credit bonuses and prevailing wage provisions directly affect his work in southern West Virginia. Update on how IRA implementation has (or hasn't) changed conditions on the ground for Coalfield Development — has the promised investment reached Appalachian communities? Are the clean energy jobs materializing at wages that can replace coal? Dennison's perspective bridges the gap between Washington policy (this chapter) and the lived experience of transition communities (Chapter 20). His story tests whether the IRA's promise translates into reality for the people it was designed to help.
 
 ---
 
@@ -178,6 +182,15 @@ The IRA was not the comprehensive climate bill that advocates had originally env
 - **Accountability challenges**: The Paris Agreement is built on voluntary NDCs with no enforcement mechanism. Countries can revise NDCs downward (as the US effectively did when Trump withdrew from the agreement in 2017-2020). The "ratchet mechanism" (each NDC should be more ambitious than the last) depends on political will.
 - **Climate finance**: Developed countries committed in 2009 to mobilize $100 billion/year by 2020 for developing countries. This target was not met on time (achieved in 2022, per OECD, two years late). The inadequacy of this figure: developing countries need trillions, not billions. The New Collective Quantified Goal (NCQG), the successor to the $100 billion target, was under negotiation for COP29 (Baku, November 2024).
 - **Geopolitical complications**: US-China climate cooperation — the Sunnylands agreement (November 2023) restarted bilateral climate dialogue but remained fragile. Russia-Ukraine conflict's effects on energy security calculations. The rise of climate-skeptic politics in multiple countries.
+
+- **The political economy of petrostates — a geopolitical wildcard the book must address:** What happens to the nations whose economies, governments, and social contracts are built on fossil fuel revenue when the world decarbonizes? This question is absent from most climate books and is a critical gap. The energy transition is not just an industrial transformation; it is a geopolitical upheaval.
+  - **The scale of dependency:** Saudi Arabia derives ~60% of government revenue and ~40% of GDP from oil (IMF). Russia's federal budget depends on oil and gas for ~30-40% of revenue. Nigeria's oil revenue represents ~90% of export earnings and ~50% of government revenue. Venezuela's economy has already collapsed partly due to oil price declines and mismanagement. Iraq, Kuwait, UAE, Algeria, Angola, and others face similar structural vulnerabilities.
+  - **The stranded-state problem:** The Carbon Tracker concept of stranded assets (Chapter 23) applies at the nation-state level. If the world follows the IEA NZE pathway — requiring no new oil and gas fields beyond 2021 and steep production declines — petrostates face the devaluation of their primary national asset. Saudi Arabia's Vision 2030 diversification strategy (led by Crown Prince Mohammed bin Salman) is an explicit acknowledgment of this risk, but progress toward genuine economic diversification has been limited.
+  - **Geopolitical destabilization risk:** States whose legitimacy rests on hydrocarbon-funded social contracts — subsidized fuel, free healthcare, no income tax, public employment — face potential instability as revenues decline. The Arab Spring demonstrated how food price shocks can destabilize the region; oil revenue collapse could be far more disruptive. Russia's war in Ukraine has already shown how fossil fuel dependence distorts geopolitics.
+  - **The spoiler dynamic:** Petrostates have strong incentives to delay the energy transition, and they hold significant power within OPEC+ and COP processes. Saudi Arabia has consistently resisted strong language on fossil fuel phasedown at COP negotiations. The appointment of Sultan Al Jaber (CEO of ADNOC) as COP28 president exemplified the tension. Understanding petrostate interests is essential for understanding why climate negotiations move slowly.
+  - **What a just transition looks like for petrostates:** Discuss the concept of a "just transition" applied not just to coal communities in Appalachia but to entire nations. The Global South petrostates are in a particularly precarious position — they have contributed relatively little to cumulative emissions but face economic devastation from decarbonization. International financial support and technology transfer for economic diversification may be necessary to prevent the energy transition from creating failed states.
+  - **Key sources:** Manley, D. et al. (2022, Natural Resource Governance Institute). Ross, M.L. (2012). *The Oil Curse: How Petroleum Wealth Shapes the Development of Nations*. Princeton University Press. Fattouh, B. et al. (Oxford Institute for Energy Studies). Van de Graaf, T. & Verbruggen, A. (2015). "The Oil Endgame: Strategies of Oil Exporters in a Carbon-Constrained World." *Environmental Science & Policy*.
+
 - **The role of non-state actors**: When national governments falter, cities, states/provinces, and corporations have stepped in. The "We Are Still In" movement after US Paris withdrawal. C40 Cities network. The question of whether bottom-up action can compensate for inadequate national ambition.
 
 ### Key Data Points
@@ -225,4 +238,6 @@ The IRA was not the comprehensive climate bill that advocates had originally env
 
 ---
 
-*Chapter 15 draft scaffold — last updated March 2026*
+**Closing — Return to Opening Scene:** Return to the White House State Dining Room, August 16, 2022. Biden, Manchin, Schumer — the improbable coalition that produced the IRA. The chapter has mapped the global policy landscape: the IRA's investment architecture, the EU's regulatory framework, the Paris gap, carbon pricing's promise and limits, and the structural barriers to international cooperation. The closing question: Was the IRA signing the beginning of a new era of climate policy, or the high-water mark of a moment that political headwinds will erode? The answer depends on implementation — and implementation depends on the choices made in the decade this chapter has mapped. The distance between promise and action remains the defining challenge.
+
+*Chapter 24 draft scaffold — last updated March 2026*

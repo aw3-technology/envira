@@ -42,7 +42,7 @@ Key terms used throughout this book, defined for quick reference. Terms are list
 
 **COP** (Conference of the Parties) — The annual meeting of countries that have signed the **UNFCCC**. The primary forum for international climate negotiations. COP21 (Paris, 2015) produced the Paris Agreement. COP28 (Dubai, 2023) completed the first **Global Stocktake**.
 
-**DAC** (Direct Air Capture) — Technology that captures CO2 directly from ambient air using chemical sorbents or solvents. Currently captures approximately 0.01 MtCO2/year at costs of $400–1,000/ton. Needed at much larger scale in scenarios that limit warming to 1.5°C.
+**DAC** (Direct Air Capture) — Technology that captures CO2 directly from ambient air using chemical sorbents or solvents. As of 2023, captures approximately 0.01 MtCO2/year at costs of $400–1,000/ton [VOLATILE]. Industry aspirational targets aim for $100–300/ton, but these depend on breakthroughs not yet demonstrated at scale. Needed at much larger scale in scenarios that limit warming to 1.5°C.
 
 **Decarbonization** — The process of reducing carbon dioxide emissions from energy systems, industry, transportation, and other sectors. Can occur through efficiency improvements, fuel switching, electrification, and **carbon capture**.
 

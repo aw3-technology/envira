@@ -4,205 +4,250 @@
 
 *This document is the single source of truth for the book's structure and content plan.*
 
+### Structural Principles
+
+1. **Reduced length**: ~93,000 words total. Competitive with successful climate nonfiction (Drawdown ~80K, The Uninhabitable Earth ~70K). Cut from the 208,000-word expanded draft.
+2. **Hope interleaved early**: Part I compressed to 10,000 words (2 chapters). Solutions appear by page ~50. Each crisis chapter ends with a forward lean.
+3. **Obstacles woven in**: No standalone "obstacles" part. Each solution chapter includes a "Tensions and Headwinds" section. A single condensed obstacles chapter opens Part V.
+4. **Pacing variation**: Four interludes between parts (~1,500 words each) in varied formats — dispatch, timeline, courtroom narrative, debate.
+5. **Nervous system through-line**: Every chapter in Parts III–V includes a "Nervous System Connection" showing how sensing/AI/data enables or monitors the topic. The metaphor threads from title to epilogue.
+6. **Expanded ending**: Part V (The Path Forward) gets 16,000 words across 3 chapters — the section readers most need.
+7. **Varied chapter formats**: Each chapter specifies a structural format. No two consecutive chapters follow the same template.
+
+### Consolidation Guide
+
+The manuscript contains 27 chapter files across 8 parts. This outline consolidates them to 16 chapters across 5 parts. Files marked **[ACTIVE]** are the primary files for each target chapter. Files marked **[ABSORBED]** have their key content merged into an active file. Files marked **[RETIRED]** are cut entirely (or moved to appendices).
+
 ---
 
 ## Front Matter
 
 ### Foreword (~1,500 words)
+- **File**: `manuscript/00-front-matter/foreword.md`
 - AW3 Technology's mission and how Envira came to be
-- The convergence of environmentalism and technology as witnessed from San Francisco
 - Acknowledgment of complexity — this isn't a simple story
 
-### Introduction: The Convergence Moment (~4,000 words)
+### Introduction: The Convergence Moment (~2,500 words)
+- **File**: `manuscript/00-front-matter/introduction.md`
 - What "Earth gaining a nervous system" means in concrete terms
-- The author's journey to this topic
 - What this book covers and who it's for
-- How to read this book (narrative + data + action)
+- A seed of hope: solar cost collapse, clean energy investment exceeding fossil fuel investment
+
+**Front matter subtotal: ~4,000 words**
 
 ---
 
 ## Part I: The Crisis — Where We Stand
 
-### Chapter 1: The State of the Planet (~8,000 words)
-- **Opening scene**: A real extreme weather event from recent years
-- **Sections**: Climate change, biodiversity loss, pollution, ocean health, deforestation
-- **Key data**: Current CO2 levels, temperature anomalies, species loss rates
-- **Sources**: IPCC AR6, Stockholm Resilience Centre planetary boundaries, NASA/NOAA data
-- **Source material**: Source 2 (Chapters 1–4), Source 4 (Chapter 1 draft prose)
+*Two chapters. Establishes urgency without exhausting the reader. Each chapter ends with a forward lean toward solutions.*
 
-### Chapter 2: The Economics of Inaction (~7,000 words)
-- **Opening scene**: A real financial event tied to climate (insurance withdrawal, etc.)
-- **Sections**: Economic costs of climate damage, stranded assets, insurance crisis, food/water price impacts
-- **Key data**: Verified economic projections from major institutions
-- **Sources**: Swiss Re, Deloitte, Network for Greening the Financial System
-- **Source material**: Source 1 (Chapter 2 — grounded in real data, speculative numbers removed)
+### Chapter 1: The State of the Planet (~5,500 words)
+- **File [ACTIVE]**: `manuscript/part-1-the-crisis/chapter-01.md`
+- **Format**: Standard narrative — opening scene, data-driven sections, closing bridge
+- **Opening scene**: The 2023 Canadian wildfire season / New York orange sky
+- **Sections**: Climate change, biodiversity loss, pollution (compressed), ocean health, deforestation
+- **Nervous system seed**: Close with the observation that we can now see all of this in real time
+- **Hope signal**: The data infrastructure revealing the crisis is also enabling the response
+- **Sources**: IPCC AR6, Stockholm Resilience Centre, NASA/NOAA
 
-### Chapter 3: Tipping Points and the Urgency Clock (~6,000 words)
-- **Opening scene**: A real tipping point event (AMOC monitoring, permafrost thaw observations)
-- **Sections**: Nine planetary boundaries, cascade risks, the carbon budget, what timelines look like
-- **Sources**: Nature, Science publications on tipping points, Potsdam Institute
-- **Source material**: Source 5 (Chapter 2)
+### Chapter 2: The Economics of Destruction and the Urgency Clock (~4,500 words)
+- **File [ACTIVE]**: `manuscript/part-1-the-crisis/chapter-02.md`
+- **Absorbs**: `chapter-03.md` (tipping points), `chapter-04.md` (methane — key data only)
+- **Format**: Data-driven analysis — no narrative opening; leads with numbers
+- **Sections**: Economic costs of inaction (Swiss Re, Stern), tipping points and cascade risks, the carbon budget countdown, methane as short-term lever
+- **Hope signal**: Clean energy economics have already flipped. The economic case for action is stronger than for inaction.
+- **Sources**: Swiss Re, IPCC AR6, Armstrong McKay et al., Potsdam Institute, IEA, UNEP Methane Assessment
 
-**Part I subtotal: ~21,000 words**
+**Part I subtotal: ~10,000 words**
+
+### Interlude: Dispatch from the Fire Line (~1,500 words)
+- **File**: `manuscript/part-1-the-crisis/interlude-fire-line.md`
+- **Format**: First-person dispatch from a documented extreme event
+- Transition: sensors overhead, data flowing — Earth is learning to see
 
 ---
 
 ## Part II: The Nervous System — Earth Learns to See
 
-### Chapter 4: Earth's Monitoring Revolution (~8,000 words)
-- **Opening scene**: Inside a real Earth observation center during a crisis event
-- **Sections**: Satellite constellations, sensor networks, IoT environmental monitoring, real-time deforestation tracking
-- **Profiles**: Planet Labs, Global Forest Watch, ESA's Climate Change Initiative
-- **Sources**: ESA Copernicus, NASA Earth Observing System, Global Forest Watch
-- **Source material**: Source 1 (Chapter 1), Source 5 (Chapter 1)
+*The title's central metaphor gets its full treatment.*
 
-### Chapter 5: AI Meets Climate Science (~8,000 words)
-- **Opening scene**: A real AI climate breakthrough moment
-- **Sections**: AI climate modeling, weather prediction (GraphCast), deforestation prediction (PrevisIA), wildlife protection (TrailGuard)
+### Chapter 3: Earth's Monitoring Revolution (~5,000 words)
+- **File [ACTIVE]**: `manuscript/part-2-the-nervous-system/chapter-03.md`
+- **Format**: Single extended narrative — follow one monitoring event as spine
+- **Sections**: Satellite constellations, sensor networks, IoT monitoring, real-time deforestation tracking
+- **Profiles**: Planet Labs, Global Forest Watch, ESA Copernicus
+
+### Chapter 4: AI Meets Climate Science (~5,000 words)
+- **File [ACTIVE]**: `manuscript/part-2-the-nervous-system/chapter-04.md`
+- **Format**: Profile vignettes — shorter sections, each anchored to a person/application
+- **Sections**: AI climate modeling, weather prediction (GraphCast), deforestation prediction (PrevisIA), emissions tracking (Climate TRACE)
 - **Profiles**: DeepMind, Google, Allen AI, Climate TRACE
-- **Sources**: DeepMind publications, Google Flood Hub, Microsoft AI for Earth
-- **Source material**: Source 1 (Chapter 3), Source 2 (Chapter 9), Source 5 (Chapter 3)
 
-### Chapter 6: Digital Twins and Planetary Prediction (~7,000 words)
-- **Opening scene**: A real digital twin simulation scenario
-- **Sections**: NVIDIA Earth-2, EU Destination Earth, what-if scenario modeling, resolution advances
-- **Sources**: NVIDIA Earth-2, EU Destination Earth, published accuracy data
-- **Source material**: Source 5 (Chapter 8)
+### Chapter 5: Digital Twins and Planetary Prediction (~4,000 words)
+- **File [ACTIVE]**: `manuscript/part-2-the-nervous-system/chapter-05.md`
+- **Format**: Scenario-driven — open with a "what-if" simulation
+- **Sections**: NVIDIA Earth-2, EU Destination Earth, what-if modeling, resolution advances
 
-**Part II subtotal: ~23,000 words**
+**Part II subtotal: ~14,000 words**
+
+### Interlude: Twenty-Four Hours of the Planetary Nervous System (~1,500 words)
+- **File**: `manuscript/part-2-the-nervous-system/interlude-24-hours.md`
+- **Format**: Timeline — a single day, hour by hour, data flowing around the planet
 
 ---
 
 ## Part III: The Arsenal — Technologies Fighting Back
 
-### Chapter 7: The Carbon Hunters (~8,000 words)
-- **Opening scene**: Inside a real DAC facility (Climeworks Orca/Mammoth in Iceland)
+*Consolidates old Parts III, IV, and V (energy, industry, restoration) into 5 focused chapters. Each includes "Nervous System Connection" and "Tensions and Headwinds" sections.*
+
+### Chapter 6: The Energy Renaissance (~5,000 words)
+- **File [ACTIVE]**: `manuscript/part-3-the-arsenal/chapter-06.md`
+- **Absorbs**: `chapter-09.md` (nuclear — key sections on SMRs and net-zero role)
+- **Format**: Timeline-driven — solar cost trajectory as spine, expanding outward
+- **Sections**: Solar's exponential curve, wind at scale, storage revolution, grid modernization, nuclear's role (compressed), the fusion frontier
+- **Nervous system connection**: Smart grids as the nervous system of the energy transition; AI-driven grid balancing; real-time renewable forecasting
+- **Tensions and headwinds**: Grid bottlenecks, permitting, supply chain concentration, mining costs, NIMBYism, intermittency
+- **Profiles**: First Solar, Orsted, Form Energy, Kairos Power
+
+### Chapter 7: The Carbon Hunters (~5,000 words)
+- **File [ACTIVE]**: `manuscript/part-3-the-arsenal/chapter-07.md`
+- **Format**: Standard narrative — opening scene, deep dives, profiles
+- **Opening scene**: Inside Climeworks' Mammoth facility in Iceland
 - **Sections**: Direct air capture, enhanced weathering, bio-oil sequestration, ocean alkalinity, soil carbon
+- **Nervous system connection**: AI-optimized site selection; satellite verification of sequestration; MRV as the nervous system of carbon markets
+- **Tensions and headwinds**: Cost ($400-1,000/tCO2), energy intensity, moral hazard, fossil fuel co-option, scale gap
 - **Profiles**: Climeworks, Charm Industrial, CarbonCure, Heirloom
-- **Sources**: Climeworks published data, Charm Industrial reports, IPCC CDR assessments
-- **Source material**: Source 1 (Chapter 4), Source 2 (Chapter 7), Source 5 (Chapter 5)
 
-### Chapter 8: The Energy Renaissance (~8,000 words)
-- **Opening scene**: A real renewable energy milestone moment
-- **Sections**: Solar advances (perovskite records), wind, battery storage, grid modernization, fusion progress (ITER, NIF results)
-- **Profiles**: First Solar, Ørsted, QuantumScape, Commonwealth Fusion Systems
-- **Sources**: IRENA, BloombergNEF, NREL, published efficiency records
-- **Source material**: Source 1 (Chapter 5), Source 2 (Chapter 10), Source 5 (Chapter 6)
+### Chapter 8: Decarbonizing Industry and Transport (~4,500 words)
+- **File [ACTIVE]**: `manuscript/part-3-the-arsenal/chapter-08.md`
+- **Absorbs**: `chapter-12.md` (shipping/aviation), `chapter-13.md` (circular economy), `chapter-14.md` (geoengineering — sidebar only)
+- **Format**: Technically grounded narrative with compressed subsections
+- **Sections**: Steel (green hydrogen DRI, SSAB/HYBRIT), cement (CCS, novel cements), shipping (green methanol, Maersk), aviation (SAF), circular economy (plastics, e-waste, right to repair) — each ~800 words
+- **Nervous system connection**: Industrial IoT enabling process optimization; satellite monitoring of industrial emissions; supply chain transparency
+- **Tensions and headwinds**: Cost premiums for green materials; SAF availability; circular economy's gap between aspiration and practice
+- **Profiles**: SSAB/HYBRIT, Maersk, Redwood Materials
 
-### Chapter 9: Restoring Ecosystems at Scale (~7,000 words)
-- **Opening scene**: A real large-scale restoration project
-- **Sections**: Reforestation tech (drone planting), coral restoration, rewilding programs, marine protected areas
+### Chapter 9: Restoring Ecosystems at Scale (~4,500 words)
+- **File [ACTIVE]**: `manuscript/part-3-the-arsenal/chapter-09.md`
+- **Absorbs**: `chapter-17.md` (water security — key sections)
+- **Format**: Place-based narrative — journey through three restoration sites
+- **Sections**: Reforestation tech, coral restoration, rewilding, marine protected areas, water security (desalination, smart water management — compressed)
+- **Nervous system connection**: Drone/satellite monitoring of restoration progress; AI biodiversity tracking; acoustic monitoring of reef health
+- **Tensions and headwinds**: Timescale mismatch; offsetting vs. genuine restoration; land rights; climate undermining restoration
 - **Profiles**: Dendra Systems, SECORE International, Rewilding Europe
-- **Sources**: Bonn Challenge data, published restoration studies, IUCN
-- **Source material**: Source 1 (Chapter 6), Source 5 (Chapter 7)
 
-### Chapter 10: Sustainable Agriculture and Food Systems (~7,000 words)
-- **Opening scene**: A real precision agriculture deployment
-- **Sections**: Precision farming, vertical farming, alternative proteins, food waste reduction
-- **Profiles**: Indigo Agriculture, Plenty, Impossible Foods
-- **Sources**: FAO, Project Drawdown agriculture solutions, published AgTech data
-- **Source material**: Source 2 (Chapter 11), Source 5 (related content)
+### Chapter 10: Agriculture, Cities, and Adaptation (~4,000 words)
+- **File [ACTIVE]**: `manuscript/part-3-the-arsenal/chapter-10.md`
+- **Absorbs**: `chapter-18.md` (adaptation), `chapter-19.md` (cities)
+- **Format**: Standard narrative with data callout boxes
+- **Sections**: Precision farming, alternative proteins, food waste (compressed); urban emissions and solutions (transit, heat islands — compressed); adaptation imperative (early warning systems, managed retreat — compressed)
+- **Nervous system connection**: Precision agriculture as local nervous system; smart city sensor networks; early warning systems as adaptation's nervous system
+- **Tensions and headwinds**: Smallholder access; energy costs of vertical farming; adaptation finance gap ($160-340B/year needed, ~$21B flowing)
+- **Profiles**: Indigo Agriculture, Medellín Green Corridors, Netherlands Delta Programme
 
-**Part III subtotal: ~30,000 words**
+**Part III subtotal: ~23,000 words**
+
+### Interlude: The Greenwashing Trial (~1,500 words)
+- **File**: `manuscript/part-3-the-arsenal/interlude-greenwashing.md`
+- **Format**: Courtroom narrative — Milieudefensie v. Shell
+- Transition: technology and law aren't enough — the transition is about people
 
 ---
 
 ## Part IV: The Human Equation
 
-### Chapter 11: The Green Jobs Transformation (~7,000 words)
-- **Opening scene**: A real worker transition story
-- **Sections**: Job creation data, reskilling programs, community wealth building, specific career paths
-- **Sources**: ILO, IRENA jobs reports, BLS data
-- **Source material**: Source 1 (Chapter 7), Source 5 (Chapter 12)
+*Each chapter includes integrated obstacles and nervous system connections.*
 
-### Chapter 12: Environmental Justice in the Digital Age (~7,000 words)
-- **Opening scene**: A real environmental justice community story
-- **Sections**: Technology access gaps, indigenous knowledge integration, Global South leadership, energy democracy
-- **Sources**: EPA EJScreen, published equity studies, community reports
-- **Source material**: Source 1 (Chapter 8), Source 5 (Chapter 11)
+### Chapter 11: The Green Jobs Transformation (~4,500 words)
+- **File [ACTIVE]**: `manuscript/part-4-the-human-equation/chapter-11.md`
+- **Format**: Single extended narrative — one worker's transition as spine
+- **Sections**: Job creation data, reskilling programs, community wealth building, career paths
+- **Nervous system connection**: Data-driven workforce planning; AI matching skills to emerging roles
+- **Tensions and headwinds**: Geographic mismatch; wage differentials; political identity; policy instability
 
-### Chapter 13: Behavior, Transparency, and Culture Shift (~6,000 words)
-- **Opening scene**: A real transparency/behavior change success story
-- **Sections**: Supply chain transparency, carbon footprint tools, gamification results, cultural shifts
-- **Sources**: Published behavioral science studies, blockchain transparency projects
-- **Source material**: Source 1 (Chapter 9), Source 5 (Chapter 13)
+### Chapter 12: Environmental Justice in the Digital Age (~4,500 words)
+- **File [ACTIVE]**: `manuscript/part-4-the-human-equation/chapter-12.md`
+- **Format**: Debate format — tech-optimist vs. justice perspectives, finding synthesis
+- **Sections**: Technology access gaps, indigenous knowledge, Global South leadership, energy democracy
+- **Nervous system connection**: Community sensor networks (PurpleAir); citizen science; data as power — or surveillance
+- **Tensions and headwinds**: Digital divide; data colonialism; clean energy displacement; investment gap
 
-**Part IV subtotal: ~20,000 words**
+### Chapter 13: Behavior, Transparency, and Culture Shift (~4,000 words)
+- **File [ACTIVE]**: `manuscript/part-4-the-human-equation/chapter-13.md`
+- **Format**: Standard narrative with embedded case studies
+- **Sections**: Supply chain transparency, carbon footprint tools, gamification, cultural shifts
+- **Nervous system connection**: Transparency as the nervous system's output to consumers; carbon dashboards; the say-do gap made measurable
+- **Tensions and headwinds**: Carbon footprint as corporate deflection; greenwashing; eco-anxiety; awareness-action gap
 
----
+**Part IV subtotal: ~13,000 words**
 
-## Part V: The Obstacles
-
-### Chapter 14: Corporate Resistance and the Fossil Fuel Reckoning (~7,000 words)
-- **Opening scene**: A real corporate climate case or divestment event
-- **Sections**: Industry obstruction (documented), divestment movement data, greenwashing exposed, corporate transitions
-- **Sources**: Public court documents, SEC filings, published investigative journalism
-- **Source material**: Source 1 (Chapter 10), Source 5 (Chapter 14)
-
-### Chapter 15: Policy, Governance, and the Implementation Gap (~7,000 words)
-- **Opening scene**: A real policy moment (IRA signing, Paris Agreement, etc.)
-- **Sections**: What's working (IRA, EU Green Deal), what's failing, carbon pricing landscape, international cooperation gaps
-- **Sources**: IRA text, EU Green Deal documents, UNFCCC reports
-- **Source material**: Source 2 (Chapter 14), Source 5 (Chapter 15)
-
-### Chapter 16: The Investment Challenge (~6,000 words)
-- **Opening scene**: A real climate tech investment milestone
-- **Sections**: The funding gap, VC landscape, public finance, ESG evolution, where capital is needed
-- **Sources**: BloombergNEF, Climate Policy Initiative, IEA investment data
-- **Source material**: Source 5 (Chapter 16)
-
-**Part V subtotal: ~20,000 words**
+### Interlude: A Debate on the Future of Fossil Fuels (~1,500 words)
+- **File**: `manuscript/part-4-the-human-equation/interlude-fossil-fuel-debate.md`
+- **Format**: Structured debate — two real voices on pace of phase-out
+- Transition: the next decade is decisive
 
 ---
 
-## Part VI: The Path Forward
+## Part V: The Path Forward
 
-### Chapter 17: The Critical Decade: 2025–2035 (~6,000 words)
-- **Opening scene**: What the data says is possible vs. what's needed
-- **Sections**: Technologies ready for deployment now, scale-up timelines, critical milestones, what must happen
-- **Note**: Present as "what evidence-based pathways show," not speculative promises
-- **Sources**: IEA Net Zero Roadmap, IPCC pathways, published scenario analyses
-- **Source material**: Source 1 (Chapter 12), Source 5 (Chapters 17–18)
+*Expanded to 16,000 words. Opens with condensed obstacles, then pivots to pathways and action.*
 
-### Chapter 18: What You Can Do — The Action Imperative (~5,000 words)
+### Chapter 14: The Reckoning — Obstacles We Must Name (~4,000 words)
+- **File [ACTIVE]**: `manuscript/part-5-the-path-forward/chapter-14.md`
+- **Absorbs**: `chapter-24.md` (policy), `chapter-25.md` (investment)
+- **Format**: Compressed inventory — no narrative; direct, dense catalogue of barriers
+- **Sections**:
+  - Corporate resistance: Exxon's record, Global Climate Coalition, ongoing lobbying
+  - Policy failures: NDC gap, carbon pricing at 23% of emissions
+  - Investment gap: $4.5T/year needed, $1.8T flowing
+  - Political economy: $7T/year fossil fuel subsidies (IMF), incumbent power
+- This chapter is deliberately lean — obstacles have been encountered in context throughout Parts III–IV
+
+### Chapter 15: The Critical Decade: 2025–2035 (~6,000 words)
+- **File [ACTIVE]**: `manuscript/part-5-the-path-forward/chapter-15.md`
+- **Format**: Data-driven analysis with milestone dashboard
+- **Sections**: Technologies ready now, scale-up needs, 2030 milestones (renewable tripling, EV share, methane reduction), critical policy windows
+- **Nervous system connection**: Monitoring infrastructure enabling accountability — tracking milestones in real time; Climate TRACE closing the say-do gap
+- **Sources**: IEA Net Zero Roadmap, IPCC pathways
+
+### Chapter 16: What You Can Do — The Action Imperative (~6,000 words)
+- **File [ACTIVE]**: `manuscript/part-5-the-path-forward/chapter-16.md`
+- **Format**: Audience-segmented guide — four sections for four audiences
 - **Sections**: For entrepreneurs, for investors, for citizens, for policymakers
-- **Key data**: Practical, verified actions with measurable impact
-- **Sources**: Project Drawdown individual actions, published impact studies
-- **Source material**: Source 1 (Chapters 14–15), Source 5 (Chapter 19)
+- **Nervous system connection**: The nervous system's ultimate purpose — enabling informed action. Sensing without response is just surveillance. The arc completes: see, build, include, act.
+- **Sources**: Project Drawdown, Wynes & Nicholas (2017), IEA
 
-**Part VI subtotal: ~11,000 words**
+**Part V subtotal: ~16,000 words**
 
 ---
 
 ## Back Matter
 
 ### Epilogue (~2,000 words)
-- Reflective, grounded — not speculative fiction
+- **File**: `manuscript/99-back-matter/epilogue.md`
+- Return to the nervous system metaphor with full weight
 - The consciousness shift: seeing humanity as part of nature
-- What the convergence means going forward
 
-### Appendix A: Technology Directory
-- 100 technologies reshaping environmentalism, with status and key players
+### Appendix A: Technology Directory (~2,500 words)
+- **File**: `manuscript/99-back-matter/appendix-a-technology.md`
+- 50 key technologies (compressed from 100)
 
-### Appendix B: Funding Map
-- Climate tech investors, grants, and programs
+### Appendix B: Funding Map (~1,500 words)
+- **File**: `manuscript/99-back-matter/appendix-b-funding.md`
 
-### Appendix C: Science Deep Dives
-- Technical methodologies and extended data
+### Appendix C: Science Deep Dives (~2,000 words)
+- **File**: `manuscript/99-back-matter/appendix-c-science.md`
 
-### Appendix D: Global Directory
-- Organizations, hubs, and frameworks
-
-### Appendix E: Personal Action Guide
-- 30-day personal transformation guide
+### Appendix D: Personal Action Guide (~1,500 words)
+- **File**: `manuscript/99-back-matter/appendix-e-action.md`
 
 ### Bibliography
-- Full source citations for all chapters
+- **File**: `manuscript/99-back-matter/bibliography.md`
 
-### Glossary
-- Key terms defined
+### Glossary (~1,000 words)
+- **File**: `manuscript/99-back-matter/glossary.md`
 
-**Back matter subtotal: ~15,000 words**
+**Back matter subtotal: ~10,500 words**
 
 ---
 
@@ -210,12 +255,104 @@
 
 | Section | Words |
 |---------|-------|
-| Front matter | 5,500 |
-| Part I: The Crisis | 21,000 |
-| Part II: The Nervous System | 23,000 |
-| Part III: The Arsenal | 30,000 |
-| Part IV: The Human Equation | 20,000 |
-| Part V: The Obstacles | 20,000 |
-| Part VI: The Path Forward | 11,000 |
-| Back matter | 15,000 |
-| **Total** | **~148,500** |
+| Front matter | 4,000 |
+| Part I: The Crisis (2 chapters) | 10,000 |
+| Interlude 1: Dispatch from the Fire Line | 1,500 |
+| Part II: The Nervous System (3 chapters) | 14,000 |
+| Interlude 2: Twenty-Four Hours | 1,500 |
+| Part III: The Arsenal (5 chapters) | 23,000 |
+| Interlude 3: The Greenwashing Trial | 1,500 |
+| Part IV: The Human Equation (3 chapters) | 13,000 |
+| Interlude 4: Fossil Fuel Debate | 1,500 |
+| Part V: The Path Forward (3 chapters) | 16,000 |
+| Back matter | 10,500 |
+| **Total** | **~97,000** |
+
+---
+
+## Chapter Format Key
+
+| Chapter | Format | Description |
+|---------|--------|-------------|
+| Ch 1 | Standard narrative | Opening scene, data sections, closing bridge |
+| Ch 2 | Data-driven analysis | Leads with numbers, no narrative opening |
+| Ch 3 | Single extended narrative | One monitoring event as spine |
+| Ch 4 | Profile vignettes | Shorter sections anchored to people |
+| Ch 5 | Scenario-driven | "What-if" simulation opening |
+| Ch 6 | Timeline-driven | Cost trajectory as spine |
+| Ch 7 | Standard narrative | Opening scene, deep dives, profiles |
+| Ch 8 | Technical narrative | Compressed subsections across sectors |
+| Ch 9 | Place-based narrative | Journey through restoration sites |
+| Ch 10 | Standard + data callouts | Narrative with data boxes |
+| Ch 11 | Single extended narrative | One worker's story as spine |
+| Ch 12 | Debate format | Two perspectives finding synthesis |
+| Ch 13 | Standard + case studies | Narrative with embedded cases |
+| Ch 14 | Compressed inventory | Dense catalogue, no narrative |
+| Ch 15 | Data-driven + dashboard | Milestones with progress assessment |
+| Ch 16 | Audience-segmented guide | Four sections for four audiences |
+
+---
+
+## File Consolidation Map
+
+### Active files (16 chapters + 4 interludes)
+| New Ch | Title | Source File |
+|--------|-------|-------------|
+| 1 | State of the Planet | `part-1-the-crisis/chapter-01.md` |
+| 2 | Economics + Urgency Clock | `part-1-the-crisis/chapter-02.md` |
+| 3 | Monitoring Revolution | `part-2-the-nervous-system/chapter-03.md` |
+| 4 | AI Meets Climate Science | `part-2-the-nervous-system/chapter-04.md` |
+| 5 | Digital Twins | `part-2-the-nervous-system/chapter-05.md` |
+| 6 | Energy Renaissance | `part-3-the-arsenal/chapter-06.md` |
+| 7 | Carbon Hunters | `part-3-the-arsenal/chapter-07.md` |
+| 8 | Industry & Transport | `part-3-the-arsenal/chapter-08.md` |
+| 9 | Restoring Ecosystems | `part-3-the-arsenal/chapter-09.md` |
+| 10 | Agriculture, Cities, Adaptation | `part-3-the-arsenal/chapter-10.md` |
+| 11 | Green Jobs | `part-4-the-human-equation/chapter-11.md` |
+| 12 | Environmental Justice | `part-4-the-human-equation/chapter-12.md` |
+| 13 | Behavior & Culture | `part-4-the-human-equation/chapter-13.md` |
+| 14 | Obstacles | `part-5-the-path-forward/chapter-14.md` |
+| 15 | Critical Decade | `part-5-the-path-forward/chapter-15.md` |
+| 16 | Action Imperative | `part-5-the-path-forward/chapter-16.md` |
+| Int. 1 | Fire Line | `part-1-the-crisis/interlude-fire-line.md` |
+| Int. 2 | 24 Hours | `part-2-the-nervous-system/interlude-24-hours.md` |
+| Int. 3 | Greenwashing Trial | `part-3-the-arsenal/interlude-greenwashing.md` |
+| Int. 4 | Fossil Fuel Debate | `part-4-the-human-equation/interlude-fossil-fuel-debate.md` |
+
+### Absorbed files (key content merged into active files)
+| File | Absorbed Into |
+|------|--------------|
+| `_archive/old-chapter-03-tipping-points.md` (Tipping Points) | Ch 2 |
+| `_archive/old-chapter-04-methane.md` (Methane) | Ch 2 |
+| `_archive/old-chapter-09-nuclear.md` (Nuclear) | Ch 6 |
+| `_archive/old-chapter-12-shipping-aviation.md` (Shipping/Aviation) | Ch 8 |
+| `_archive/old-chapter-13-circular-economy.md` (Circular Economy) | Ch 8 |
+| `_archive/old-chapter-14-geoengineering.md` (Geoengineering) | Ch 8 sidebar or Appendix C |
+| `_archive/old-chapter-17-water.md` (Water) | Ch 9 |
+| `_archive/old-chapter-18-adaptation.md` (Adaptation) | Ch 10 |
+| `_archive/old-chapter-19-cities.md` (Cities) | Ch 10 |
+| `_archive/old-chapter-24-policy.md` (Policy) | Ch 14 |
+| `_archive/old-chapter-25-investment.md` (Investment) | Ch 14 |
+
+### Retired
+| File | Disposition |
+|------|------------|
+| `manuscript/99-back-matter/appendix-d-directory.md` | Cut — content folded into Appendices A/B |
+| `manuscript/99-back-matter/authors-note.md` | Assess for inclusion in foreword |
+| `manuscript/99-back-matter/index.md` | Generate from final manuscript |
+
+---
+
+## Structural Changes Log
+
+**v3 (March 2026) — Compression restructure implementing 7 fixes:**
+
+1. **Part I compressed**: 4 chapters (23,000 words) → 2 chapters (10,000 words). Tipping points and methane merged into Ch 2.
+2. **Obstacles dissolved**: 3 standalone chapters (20,000 words) → woven into Parts III–IV as "Tensions and Headwinds" + 1 condensed chapter (4,000 words) in Part V.
+3. **Length reduced**: 208,000 → ~97,000 words (~53% cut). 27 chapters → 16 chapters.
+4. **4 interludes**: 6,000 words of varied-format content between parts.
+5. **Nervous system threaded**: Every chapter in Parts III–V includes "Nervous System Connection."
+6. **Chapter formats varied**: 10 distinct formats across 16 chapters.
+7. **Path Forward expanded**: 11,000 → 16,000 words (3 chapters).
+8. **Hard-to-abate sectors consolidated**: 4 chapters (cement/steel, shipping/aviation, circular economy, geoengineering) → 1 chapter.
+9. **Restoration/adaptation consolidated**: 5 chapters → 2 chapters.

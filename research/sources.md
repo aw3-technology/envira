@@ -130,3 +130,28 @@ For each claim in the manuscript, verify:
 - [ ] Context is preserved (not cherry-picked from broader findings)
 - [ ] Projections include scenario assumptions and confidence levels
 - [ ] Organization/company claims verified against independent sources where possible
+
+## Company-Sourced Data Verification Protocol
+
+**Problem:** Several key data points in the manuscript originate from the companies being profiled (Climeworks capacity, Plenty yield claims, Dendra planting rates, corporate funding totals, etc.). Self-reported company data may be optimistic, selectively presented, or unverifiable.
+
+**Requirement:** All company-sourced claims in chapter scaffolds must be tagged with `[COMPANY CLAIM]` and must have one of the following verification statuses before publication:
+
+| Status | Meaning | Action Required |
+|--------|---------|-----------------|
+| `[COMPANY CLAIM — independently verified]` | Confirmed by peer-reviewed study, government data, or credible third-party reporting | None — can cite with confidence |
+| `[COMPANY CLAIM — partially verified]` | Corroborated by credible journalist reporting or analyst coverage but not independently measured | Cite with attribution: "according to [company]" or "as reported by [outlet]" |
+| `[COMPANY CLAIM — unverified]` | Only source is the company itself | Must either (a) obtain independent verification before publication, or (b) explicitly attribute: "[Company] claims X; independent verification is not publicly available" |
+
+**Key claims requiring verification:**
+
+| Claim | Chapter | Company Source | Verification Status |
+|-------|---------|---------------|-------------------|
+| Mammoth captures 36,000 tCO2/year | Ch 10 (was 7) | Climeworks press releases | `[COMPANY CLAIM — design capacity, not demonstrated sustained output; verify actual operational throughput]` |
+| Plenty produces 350x more food per acre | Ch 16 (was 10) | Plenty marketing | `[COMPANY CLAIM — unverified; figure depends on crop type, comparison method, and denominator; no independent measurement published]` |
+| Dendra plants 100,000+ seed pods/day | Ch 15 (was 9) | Dendra Systems | `[COMPANY CLAIM — partially verified via press coverage; germination and survival rates not independently tracked]` |
+| Climeworks costs $600-1,000/tCO2 | Ch 10 (was 7) | Climeworks stated range | `[COMPANY CLAIM — no independent cost audit published; actual unit economics likely proprietary]` |
+| Plenty raised $900+ million | Ch 16 (was 10) | Crunchbase/press | `[COMPANY CLAIM — partially verified via Crunchbase and press; exact total may vary]` |
+| CarbonCure deployed at 700+ plants | Ch 10 (was 7) | CarbonCure | `[COMPANY CLAIM — partially verified via press coverage]` |
+
+**Editorial principle:** When company data cannot be independently verified, the text must make the sourcing explicit. Do NOT present company claims in the same evidentiary register as peer-reviewed or institutional data. Use language like "Plenty claims..." or "According to Climeworks..." rather than stating figures as established facts.
