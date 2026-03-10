@@ -12,7 +12,7 @@ Ceballos, G., P.R. Ehrlich, and R. Dirzo. "Biological Annihilation via the Ongoi
 
 Diffenbaugh, N.S., D. Singh, J.S. Mankin, D.E. Horton, D.L. Swain, D. Touma, A. Charland, Y. Liu, M. Haugen, M. Tsiang, and B. Rajaratnam. "Quantifying the Influence of Global Warming on Unprecedented Extreme Climate Events." *Proceedings of the National Academy of Sciences* 114, no. 19 (2017): 4881--4886.
 
-Friedlingstein, P., et al. "Global Carbon Budget 2023." *Earth System Science Data* 15, no. 12 (2023): 5301--5369.
+Friedlingstein, P., et al. "Global Carbon Budget 2024." *Earth System Science Data* 16 (2024): 5215--5264.
 
 Hoegh-Guldberg, O., et al. "Impacts of 1.5C Global Warming on Natural and Human Systems." In *Global Warming of 1.5C*, IPCC Special Report, Chapter 3. Cambridge: Cambridge University Press, 2018.
 

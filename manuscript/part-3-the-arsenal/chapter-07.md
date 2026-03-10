@@ -41,13 +41,13 @@ Direct air capture, or DAC, is the most technically ambitious form of engineered
 
 Climeworks' approach, deployed at Orca and Mammoth in Iceland, uses modular collector containers fitted with solid amine-functionalized sorbent filters. Fans draw ambient air across the filters. CO2 binds to the sorbent material through a chemical reaction. When the filters are saturated, the container seals and low-temperature heat releases the CO2 in concentrated form. The cycle repeats. The modular design allows incremental scaling, since each container is a self-contained unit, and the relatively low temperature required for regeneration makes the system compatible with geothermal energy, industrial waste heat, and other low-grade heat sources.
 
-According to Climeworks, costs as of 2023 to 2024 were in the range of $600 to $1,000 per ton of CO2. The company has stated an aspirational target of reaching $300 to $400 per ton at scale, a goal that depends on manufacturing learning curves, sorbent chemistry improvements, and energy cost reductions that have not yet been demonstrated. Climeworks aims to reach megatonne-scale capture by 2030, a target that would require building the equivalent of roughly thirty Mammoth-sized facilities in six years.
+The Mammoth plant, designed for a nameplate capacity of 36,000 tons per year, has struggled to reach operational scale. By the end of 2024, only 12 of its 72 collector containers were operational, and the facility had captured just 105 tonnes of CO2, a fraction of its design capacity. Climeworks laid off more than 10 percent of its workforce in late 2024. According to the company, costs remain in the range of $600 to $1,000 per ton of CO2. Climeworks has stated an aspirational target of reaching $300 to $400 per ton at scale, a goal that depends on manufacturing learning curves, sorbent chemistry improvements, and energy cost reductions that have not yet been demonstrated. Climeworks aims to reach megatonne-scale capture by 2030, a target that its Mammoth experience has made considerably harder to credit.
 
 ### Carbon Engineering and Occidental: Liquid Solvent
 
 A fundamentally different approach was developed by Carbon Engineering, founded in 2009 by David Keith, a Harvard physicist who spent decades studying climate intervention. Carbon Engineering's technology uses large air contactors, structured packing towers, that expose ambient air to a potassium hydroxide solution. CO2 reacts with the solution to form potassium carbonate, and a series of chemical processing steps regenerate the solvent and produce a concentrated CO2 stream. The advantage is a continuous-flow process rather than the batch cycling of solid sorbent systems, potentially offering lower costs at very large scale.
 
-In 2023, Occidental Petroleum acquired Carbon Engineering. The oil major's subsidiary 1PointFive began constructing STRATOS, a large DAC facility in the Permian Basin of Texas, designed to capture up to 500,000 tons of CO2 per year when fully operational. If it reaches that target, STRATOS would be the largest DAC plant in the world by a significant margin.
+In 2023, Occidental Petroleum acquired Carbon Engineering. The oil major's subsidiary 1PointFive built STRATOS, a large DAC facility in the Permian Basin of Texas, designed to capture up to 500,000 tons of CO2 per year when fully operational. STRATOS received its EPA Class VI permits for geological storage in April 2025, secured a $550 million investment from BlackRock, and began commercial operations in 2025, making it the largest DAC plant in the world by a significant margin.
 
 The Occidental acquisition demands scrutiny, not merely reporting. Occidental is a major oil producer. Its stated plans include using captured CO2 for enhanced oil recovery, injecting CO2 underground to extract additional petroleum from depleted wells. This is not climate mitigation in any meaningful sense. It is using the language and infrastructure of carbon removal to extend the productive life of fossil fuel assets. The distinction between permanent geological storage and enhanced oil recovery is the difference between genuine carbon removal and an accounting exercise that produces more fossil fuel.
 
@@ -61,7 +61,7 @@ The advantage is abundant, cheap feedstock: limestone is one of the most common 
 
 ### The Honest Math
 
-Across all companies and approaches globally, total verified DAC removal amounted to roughly 10,000 tons of CO2 per year as of 2023, according to the CDR.fyi tracking platform. To put that figure in context: it is approximately equivalent to three seconds of global emissions.
+Across all companies and approaches globally, total verified DAC removal amounted to roughly 25,000 tons of CO2 as of 2025, according to the CDR.fyi tracking platform, with STRATOS expected to add substantially to that figure as it ramps up. To put the current total in context: it is approximately equivalent to a few seconds of global emissions.
 
 The energy requirements are daunting. Estimates from the National Academies of Sciences place DAC's energy demand at roughly 1,500 to 2,500 kilowatt-hours of thermal energy and 200 to 600 kilowatt-hours of electrical energy per ton of CO2 captured. Removing one gigaton of CO2 per year via DAC, still far below the IPCC's projected need, would require roughly 250 to 600 terawatt-hours of electricity, comparable to France's entire annual electricity consumption. Every kilowatt-hour directed to DAC is a kilowatt-hour not displacing fossil fuel generation.
 
@@ -153,7 +153,7 @@ CDR allows incumbent industries to argue for continued extraction while promisin
 
 ## The Direction of Flow
 
-Return, for a moment, to the Mammoth facility on the Hellisheidi plateau. The fans hum. The sorbent filters capture CO2 molecule by molecule. Underground, carbon slowly turns to stone.
+Return, for a moment, to the Mammoth facility on the Hellisheidi plateau. Most of its collector containers sit idle. The few that are operational hum as their sorbent filters capture CO2 molecule by molecule. Underground, what carbon has been captured slowly turns to stone.
 
 There is something worth noting beyond the engineering. For two centuries, the industrial economy operated on extraction: pulling carbon from underground deposits where it had been stored for millions of years and releasing it into the atmosphere. Coal, oil, and gas flowed in one direction: from the earth into the sky. Carbon removal reverses that direction. It uses human ingenuity to pull carbon from the atmosphere and return it underground. Enhanced weathering accelerates geological processes that normally unfold over millennia. Bio-oil sequestration returns biomass carbon to the earth. Mineralization locks CO2 into stone. The direction of flow has changed.
 
@@ -168,7 +168,7 @@ Which leads to the question that the next chapter takes up: how to produce that 
 ## Sources
 
 1. IPCC, 2022: *Climate Change 2022: Mitigation of Climate Change*. Working Group III, Sixth Assessment Report. Chapter 12: Cross-Sectoral Perspectives.
-2. Friedlingstein, P., et al. (2023). "Global Carbon Budget 2023." *Earth System Science Data*, 15, 5301-5369.
+2. Friedlingstein, P., et al. (2024). "Global Carbon Budget 2024." *Earth System Science Data*, 16, 5215-5264.
 3. Global Carbon Project. Cumulative CO2 emissions data. https://www.globalcarbonproject.org/
 4. CDR.fyi — Carbon Dioxide Removal tracking platform. https://www.cdr.fyi/
 5. Keith, D.W., et al. (2018). "A Process for Capturing CO2 from the Atmosphere." *Joule*, 2(8), 1573-1594.

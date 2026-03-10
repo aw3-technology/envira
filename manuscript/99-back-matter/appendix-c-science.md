@@ -70,7 +70,7 @@ Armstrong McKay, D.I., et al. "Exceeding 1.5C Global Warming Could Trigger Multi
 
 Eyring, V., et al. "Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6): Experimental Design and Organization." *Geoscientific Model Development* 9 (2016): 1937--1958.
 
-Friedlingstein, P., et al. "Global Carbon Budget 2023." *Earth System Science Data* 15, no. 12 (2023): 5301--5369.
+Friedlingstein, P., et al. "Global Carbon Budget 2024." *Earth System Science Data* 16 (2024): 5215--5264.
 
 GHG Protocol. *Corporate Accounting and Reporting Standard*. Revised edition. Washington, DC: World Resources Institute and World Business Council for Sustainable Development, 2004.
 

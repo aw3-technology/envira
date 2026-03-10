@@ -131,7 +131,7 @@ The environmental monitoring and AI systems described throughout this book carry
 
 Perhaps most fundamentally, the clean energy transition itself does not automatically produce justice. Solar farms, wind installations, and lithium mines displace communities. The cobalt that powers electric vehicle batteries is mined under conditions in the Democratic Republic of Congo that environmental justice advocates have compared to the extractive regimes the green transition is supposed to replace. The transition from fossil fuels to renewables requires not just different energy sources but different power structures, and building those structures is political work, not technological work.
 
-The adaptation finance gap measures the distance between recognition and response. Developing countries need an estimated $160 to $340 billion per year for climate adaptation by 2030. Current flows are approximately $21 billion.²³ The nervous system can reveal the need with unprecedented precision. It cannot fund the response.
+The adaptation finance gap measures the distance between recognition and response. Developing countries need an estimated $310 to $365 billion per year for climate adaptation by 2035, according to UNEP's 2025 Adaptation Gap Report. Current international public flows are approximately $26 billion.²³ The nervous system can reveal the need with unprecedented precision. It cannot fund the response.
 
 ---
 
@@ -172,7 +172,7 @@ The environmental justice movement, from Cancer Alley to the Arctic to the small
 20. ITU (2023). *Facts and Figures: Focus on the Least Connected*.
 21. IEA (2024). *Data Centres and Data Transmission Networks*.
 22. UN ITU/UNITAR (2024). *Global E-waste Monitor 2024*.
-23. UNEP (2023). *Adaptation Gap Report 2023*.
+23. UNEP (2025). *Adaptation Gap Report 2025: Running on Empty*. United Nations Environment Programme.
 24. M-KOPA. Company data. https://m-kopa.com/
 25. D.light. Company data. https://www.dlight.com/
 26. IDCOL (Infrastructure Development Company Limited), Bangladesh. Solar Home Systems Program.

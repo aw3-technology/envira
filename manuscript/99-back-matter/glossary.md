@@ -18,7 +18,7 @@ Key terms used throughout this book, defined for quick reference. Terms are list
 
 **Blended Finance**: The strategic use of public or philanthropic capital to mobilize private investment in sustainable development. Typically involves concessional (below-market-rate) capital absorbing risk to make projects attractive for commercial investors.
 
-**Carbon Budget**: The maximum amount of cumulative **CO2** emissions that would keep global warming below a specific temperature threshold with a given probability. The remaining budget for **1.5°C** (50% probability) is approximately 250 GtCO2 from January 2024.
+**Carbon Budget**: The maximum amount of cumulative **CO2** emissions that would keep global warming below a specific temperature threshold with a given probability. The remaining budget for **1.5°C** (50% probability) is approximately 170 GtCO2 as of 2025, roughly four years of current emissions.
 
 **Carbon Capture, Utilization, and Storage (CCUS)**: Technologies that capture CO2 from industrial sources or power plants, then either use it in products (utilization) or inject it underground for permanent storage. Distinct from **DAC**, which captures CO2 from ambient air.
 
@@ -30,7 +30,7 @@ Key terms used throughout this book, defined for quick reference. Terms are list
 
 **Carbon Neutrality**: See **Net Zero**.
 
-**Carbon Pricing**: A policy mechanism that puts a price on CO2 emissions, either through a carbon tax (setting the price directly) or an emissions trading system (cap and trade, where the market sets the price). Covers approximately 23% of global emissions as of 2023.
+**Carbon Pricing**: A policy mechanism that puts a price on CO2 emissions, either through a carbon tax (setting the price directly) or an emissions trading system (cap and trade, where the market sets the price). Covers approximately 24% of global emissions as of 2024.
 
 **Circular Economy**: An economic model that aims to eliminate waste and maximize resource use by designing products for durability, reuse, repair, remanufacturing, and recycling. Contrasts with the linear "take-make-waste" model.
 
@@ -40,9 +40,9 @@ Key terms used throughout this book, defined for quick reference. Terms are list
 
 **CMIP** (Coupled Model Intercomparison Project): An international framework for comparing climate model outputs. CMIP6 (Phase 6) provides the model ensemble underlying IPCC AR6 assessments. Over 100 models from 50+ research groups participate.
 
-**COP** (Conference of the Parties): The annual meeting of countries that have signed the **UNFCCC**. The primary forum for international climate negotiations. COP21 (Paris, 2015) produced the Paris Agreement. COP28 (Dubai, 2023) completed the first **Global Stocktake**.
+**COP** (Conference of the Parties): The annual meeting of countries that have signed the **UNFCCC**. The primary forum for international climate negotiations. COP21 (Paris, 2015) produced the Paris Agreement. COP28 (Dubai, 2023) completed the first **Global Stocktake**. COP29 (Baku, 2024) established the New Collective Quantified Goal of $300 billion per year in climate finance by 2035. COP30 (Belem, 2025) received updated NDCs.
 
-**DAC** (Direct Air Capture): Technology that captures CO2 directly from ambient air using chemical sorbents or solvents. As of 2023, captures approximately 0.01 MtCO2/year at costs of $400–1,000/ton [VOLATILE]. Industry aspirational targets aim for $100–300/ton, but these depend on breakthroughs not yet demonstrated at scale. Needed at much larger scale in scenarios that limit warming to 1.5°C.
+**DAC** (Direct Air Capture): Technology that captures CO2 directly from ambient air using chemical sorbents or solvents. As of 2025, total verified removal is roughly 0.025 MtCO2/year, with STRATOS (Occidental/1PointFive, Texas) ramping up toward 0.5 Mt/year capacity. Costs remain $400–1,000/ton. Industry aspirational targets aim for $100–300/ton, but these depend on breakthroughs not yet demonstrated at scale. Needed at much larger scale in scenarios that limit warming to 1.5°C.
 
 **Decarbonization**: The process of reducing carbon dioxide emissions from energy systems, industry, transportation, and other sectors. Can occur through efficiency improvements, fuel switching, electrification, and **carbon capture**.
 
