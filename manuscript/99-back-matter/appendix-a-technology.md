@@ -4,7 +4,7 @@
 **Format:** Curated directory organized by category. Each entry includes: name, brief description (1–2 sentences), current status (Research / Pilot / Commercial), key players, and relevance to environmental outcomes.
 **Note:** This appendix is a reference resource, not a narrative chapter. Entries should be concise, factual, and current as of publication date.
 
-> **Currency notice:** The 100 technologies listed here reflect the landscape as of **[month, year of publication]**. Climate technology moves fast — companies listed here will pivot, merge, fail, or be acquired; new entrants will emerge; today's pilot projects will reach commercial scale or be abandoned. Treat this appendix as a curated starting point, not a definitive ranking. For continuously updated profiles, status changes, and new additions, visit the companion website at **[envirabook.com/technologies]**, where we maintain a living version of this directory with quarterly updates.
+> **Currency notice:** The 100 technologies listed here reflect the landscape as of **[month, year of publication]**. Climate technology moves fast: companies listed here will pivot, merge, fail, or be acquired; new entrants will emerge; today's pilot projects will reach commercial scale or be abandoned. Treat this appendix as a curated starting point, not a definitive ranking. For continuously updated profiles, status changes, and new additions, visit the companion website at **[envirabook.com/technologies]**, where we maintain a living version of this directory with quarterly updates.
 
 ---
 
@@ -180,7 +180,7 @@
 
 ## Appendix Notes
 
-**Snapshot date:** All technology statuses, key players, and descriptions in this appendix are accurate as of **[month year of publication]**. By the time you read this, some entries will be outdated. This is by design — the pace of change is itself evidence of the convergence this book documents.
+**Snapshot date:** All technology statuses, key players, and descriptions in this appendix are accurate as of **[month year of publication]**. By the time you read this, some entries will be outdated. This is by design; the pace of change is itself evidence of the convergence this book documents.
 
 **Companion website:** Visit **[envirabook.com/technologies]** for a living version of this directory. The companion site tracks status changes (acquisitions, pivots, failures, breakthroughs), adds new technologies as they emerge, and links to primary sources for each entry. Subscribe for quarterly update digests.
 

@@ -1,7 +1,7 @@
 # Chapter 6: The Energy Renaissance
 ## The Sun, the Wind, and the Battery
 
-**Part III: The Arsenal — Technologies Fighting Back**
+**Part III: The Arsenal: Technologies Fighting Back**
 
 ---
 

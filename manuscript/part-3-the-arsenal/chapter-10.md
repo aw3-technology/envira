@@ -1,7 +1,7 @@
 # Chapter 10: The Essentials
 ## Agriculture, Cities, and Adaptation
 
-**Part III: The Arsenal — Technologies Fighting Back**
+**Part III: The Arsenal: Technologies Fighting Back**
 
 ---
 

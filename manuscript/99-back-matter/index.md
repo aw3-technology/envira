@@ -56,10 +56,10 @@ The index should comprehensively cover the following categories:
 
 The index should use extensive "see also" cross-references to connect related entries across the book's six parts. Examples:
 
-- *Carbon removal* — see also *direct air capture; enhanced weathering; biochar; BECCS; ocean alkalinity enhancement*
-- *Monitoring* — see also *satellites; sensors; AI; Climate TRACE; nervous system metaphor*
-- *Energy transition* — see also *solar; wind; batteries; grid modernization; heat pumps; green hydrogen*
-- *Environmental justice* — see also *just transition; energy democracy; pollution burden; Global South*
+- *Carbon removal*: see also *direct air capture; enhanced weathering; biochar; BECCS; ocean alkalinity enhancement*
+- *Monitoring*: see also *satellites; sensors; AI; Climate TRACE; nervous system metaphor*
+- *Energy transition*: see also *solar; wind; batteries; grid modernization; heat pumps; green hydrogen*
+- *Environmental justice*: see also *just transition; energy democracy; pollution burden; Global South*
 
 ---
 
