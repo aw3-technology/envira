@@ -99,6 +99,8 @@ The constraints are logistical rather than thermodynamic: securing reliable supp
 
 A related approach uses pyrolysis not to produce injectable bio-oil but to create biochar, a charcoal-like material produced by heating biomass at 300 to 700 degrees Celsius in low-oxygen conditions. The resulting material is highly stable, with a residence time of centuries to millennia in soil, according to research published by Johannes Lehmann and colleagues in *Nature Reviews Earth & Environment* in 2021. Applied to agricultural land, biochar can improve soil fertility, water retention, and nutrient availability while permanently sequestering carbon.
 
+The technique is not new. Pre-Columbian civilizations in the Amazon Basin created *terra preta*, or "dark earth," through controlled burning of organic waste over centuries, producing soils that contain up to three times more carbon than surrounding forest soils and remain fertile today, more than a thousand years after their creation. Modern biochar production is essentially an industrialized version of this ancient pyrolysis process, converting agricultural residues, forestry waste, and energy crops into stable carbon. The indigenous origins matter: they demonstrate that carbon sequestration through charred biomass is not a speculative technology but a practice validated by millennia of use, now being rediscovered and scaled with modern engineering.
+
 The IPCC's Working Group III estimated biochar's CDR potential at 1 to 2 gigatons of CO2 per year. Companies including Pacific Biochar, Carbofex, and NetZero (based in France) are commercializing the approach. The primary challenge is scaling production while ensuring the biomass feedstock is sustainably sourced and the energy for pyrolysis comes from clean sources.
 
 ### CarbonCure and Mineral Carbonation
@@ -177,9 +179,10 @@ Which leads to the question that the next chapter takes up: how to produce that 
 8. National Academies of Sciences, Engineering, and Medicine (2022). *A Research Strategy for Ocean-based Carbon Dioxide Removal and Sequestration*. Washington, DC: The National Academies Press.
 9. Woolf, D., et al. (2010). "Sustainable biochar to mitigate global climate change." *Nature Communications*, 1, 56.
 10. Lehmann, J., et al. (2021). "Biochar in climate change mitigation." *Nature Reviews Earth & Environment*, 2, 763-782.
-11. Climeworks press releases and technical documentation. https://climeworks.com/
-12. Charm Industrial technical documentation. https://charmindustrial.com/
-13. IEA (2022). *Direct Air Capture: A Key Technology for Net Zero*. International Energy Agency.
-14. Frontier Climate. https://frontierclimate.com/
-15. CarbonCure Technologies. https://www.carboncure.com/
-16. West, L.J., and Lenferna, G.A. (2023). "Carbon dioxide removal and the risk of mitigation deterrence." *WIREs Climate Change*, 14(4), e834.
+11. Glaser, B. & Birk, J.J. (2012). "State of the scientific knowledge on properties and genesis of Anthropogenic Dark Earths in Central Amazonia (terra preta de Índio)." *Geochimica et Cosmochimica Acta*, 82, 39-51. [Pre-Columbian Amazonian dark earths: charred biomass creating soils with up to 3x more carbon than surrounding forest soils, persisting for over 1,000 years.]
+12. Climeworks press releases and technical documentation. https://climeworks.com/
+13. Charm Industrial technical documentation. https://charmindustrial.com/
+14. IEA (2022). *Direct Air Capture: A Key Technology for Net Zero*. International Energy Agency.
+15. Frontier Climate. https://frontierclimate.com/
+16. CarbonCure Technologies. https://www.carboncure.com/
+17. West, L.J., and Lenferna, G.A. (2023). "Carbon dioxide removal and the risk of mitigation deterrence." *WIREs Climate Change*, 14(4), e834.
